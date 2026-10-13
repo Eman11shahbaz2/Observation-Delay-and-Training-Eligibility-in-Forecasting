@@ -1,0 +1,19 @@
+{
+  "frozen_utc": "2026-10-11T18:58:42.546939+00:00",
+  "sha256": {
+    "PROTOCOL.md": "332551bed856317c4cea538b0f4860021f165cf20336c9620a45b307b393bdec",
+    "NEXT_STUDY_DRAFT.md": "d8bd59ff547d42efc2786c9367bbe00e7b7f2bde67b1b4f1002f8ea228335e80",
+    "IMPLEMENTATION_NOTES.md": "27b1dffe8c56fba5b73e2f632b16778f6fd77a431830889829c3ea5fb0195cb7",
+    "forecast_pilot.py": "4024e96573198d22e2cefc6e720865dbfa1da9dd8f82866d9b8bcd1939cbb5f7",
+    "replay_core.py": "efe928cfbac60e8150f7973ad4424d61dd20b7471f15b5fbe1897ce155fb32c7",
+    "metadata_preflight.py": "c1afcca728415fe05788e79cdd234660961f1546f1993198f199635ba423b7b7",
+    "METADATA_PREFLIGHT.json": "e898ed43690f2a6f6f63e2417d7639bcc51259a300c4906c5a256a5b13d6ee58",
+    "availability_contract.py": "025eed6550d4a74edbbf78cddaca0be8dbda282486156534c9501b77cc007e6a",
+    "run_full_experiment.py": "a792d938c4e5cc70dc3c03266b9f6600bf5ba0a6539f50a657ccf1986d32ac16",
+    "test_full_design.py": "d5da48f8749813607ad7021e35686163a7cef75b8cb46969ed2a440a97cecebd"
+  },
+  "source_archive_sha256": {
+    "bike": "b70182d0d0508e9abbb79306ce5c0cec34869000f8220175ac83d11dbe845401",
+    "beijing": "b04da438b2f331ac0ffd45aebdfec0d20d2367feb5f6948c4b1f7ce1191e33c4"
+  }
+}

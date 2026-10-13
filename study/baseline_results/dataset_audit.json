@@ -1,0 +1,37 @@
+[
+  {
+    "dataset": "traffic",
+    "raw_source_rows_loaded": 35504,
+    "reserved_source_rows_not_loaded": 12700,
+    "reserved_numeric_target_rows_parsed": 0,
+    "loaded_source_rows": 35504,
+    "grid_origins": 42041,
+    "first_loaded_timestamp": "2012-10-02 09:00:00",
+    "last_loaded_timestamp": "2017-07-20 01:00:00",
+    "reserved_start": "2017-07-20 02:00:00",
+    "target_name": "traffic_volume",
+    "finite_hourly_target_n": 30097,
+    "missing_or_invalid_hourly_target_n": 11944,
+    "covariate_missing_hourly_n": {
+      "temp": 12022,
+      "rain_1h": 11953,
+      "snow_1h": 11944,
+      "clouds_all": 11976,
+      "weather_main": 11944
+    },
+    "raw_development_diagnostics": {
+      "raw_target_rows_parsed": 35504,
+      "raw_target_invalid_or_missing_n": 0,
+      "reserved_target_rows_parsed": 0,
+      "development_unique_hour_n": 30097,
+      "duplicate_extra_development_rows": 5407,
+      "duplicate_development_groups": 3823,
+      "duplicate_target_consensus_groups": 3823,
+      "duplicate_target_conflict_groups": 0,
+      "duplicate_target_invalid_or_missing_groups": 0
+    },
+    "eligible_origins": 30039,
+    "missing_exact_targets": 11950,
+    "missing_common_persistence": 7365
+  }
+]

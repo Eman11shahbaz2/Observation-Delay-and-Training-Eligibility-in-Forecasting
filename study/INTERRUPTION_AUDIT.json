@@ -1,0 +1,12 @@
+{
+  "recorded_utc": "2026-10-11T19:56:05.175282+00:00",
+  "last_manifest_status": "running",
+  "fit_results_collected_before_interruption": 15,
+  "inner_jobs_submitted": 21,
+  "maximum_initial_attempt_fits": 21,
+  "first_case_complete_checkpoint_saved": false,
+  "future_jobs_submitted": 0,
+  "session_resume_result": "Unknown process id 57156",
+  "recovery_rule": "Do not retry traffic T1 O0 L0. Complete the other 15 cases with 360 additional fits. Maximum combined fits 381 <= 384. Initial fit outputs were not persisted and are not analyzed.",
+  "initial_runner_sha256": "15bb2472385a9bed4daf6c7cec1640b1c16d9b1b600584c330bbd09b3b9d83ed"
+}

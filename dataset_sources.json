@@ -1,0 +1,18 @@
+{
+  "bike": {
+    "url": "https://archive.ics.uci.edu/static/public/275/bike%2Bsharing%2Bdataset.zip",
+    "sha256": "b70182d0d0508e9abbb79306ce5c0cec34869000f8220175ac83d11dbe845401"
+  },
+  "beijing": {
+    "url": "https://archive.ics.uci.edu/static/public/501/beijing%2Bmulti%2Bsite%2Bair%2Bquality%2Bdata.zip",
+    "sha256": "b04da438b2f331ac0ffd45aebdfec0d20d2367feb5f6948c4b1f7ce1191e33c4"
+  },
+  "traffic": {
+    "url": "https://archive.ics.uci.edu/static/public/492/metro%2Binterstate%2Btraffic%2Bvolume.zip",
+    "sha256": "b99aeabcbd6cc86f642da3a79d90883425798f58abd3b3302da2fa19dda73768"
+  },
+  "household": {
+    "url": "https://archive.ics.uci.edu/static/public/235/individual%2Bhousehold%2Belectric%2Bpower%2Bconsumption.zip",
+    "sha256": "9f84b46ade8a2d8e1286ec4b2b6c2987a45a755c59f263be3b3b3d10dfbda3ff"
+  }
+}

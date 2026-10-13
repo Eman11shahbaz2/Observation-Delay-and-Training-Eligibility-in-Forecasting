@@ -1,0 +1,66 @@
+[
+  {
+    "dataset": "traffic",
+    "raw_source_rows_loaded": 35504,
+    "reserved_source_rows_not_loaded": 12700,
+    "reserved_numeric_target_rows_parsed": 0,
+    "loaded_source_rows": 35504,
+    "grid_origins": 42041,
+    "first_loaded_timestamp": "2012-10-02 09:00:00",
+    "last_loaded_timestamp": "2017-07-20 01:00:00",
+    "reserved_start": "2017-07-20 02:00:00",
+    "target_name": "traffic_volume",
+    "finite_hourly_target_n": 30097,
+    "missing_or_invalid_hourly_target_n": 11944,
+    "covariate_missing_hourly_n": {
+      "temp": 12022,
+      "rain_1h": 11953,
+      "snow_1h": 11944,
+      "clouds_all": 11976,
+      "weather_main": 11944
+    },
+    "raw_development_diagnostics": {
+      "raw_target_rows_parsed": 35504,
+      "raw_target_invalid_or_missing_n": 0,
+      "reserved_target_rows_parsed": 0,
+      "development_unique_hour_n": 30097,
+      "duplicate_extra_development_rows": 5407,
+      "duplicate_development_groups": 3823,
+      "duplicate_target_consensus_groups": 3823,
+      "duplicate_target_conflict_groups": 0,
+      "duplicate_target_invalid_or_missing_groups": 0
+    },
+    "eligible_origins": 30039,
+    "missing_exact_targets": 11950,
+    "missing_common_persistence": 7365
+  },
+  {
+    "dataset": "household",
+    "raw_source_rows_loaded": 1660236,
+    "reserved_source_rows_not_loaded": 415023,
+    "reserved_numeric_target_rows_parsed": 0,
+    "loaded_source_rows": 1660236,
+    "grid_origins": 27670,
+    "first_loaded_timestamp": "2006-12-16 18:00:00",
+    "last_loaded_timestamp": "2010-02-11 15:00:00",
+    "reserved_start": "2010-02-11 16:00:00",
+    "target_name": "Global_active_power",
+    "finite_hourly_target_n": 27420,
+    "missing_or_invalid_hourly_target_n": 250,
+    "covariate_missing_hourly_n": {
+      "Global_reactive_power": 250,
+      "Voltage": 250
+    },
+    "raw_development_diagnostics": {
+      "raw_target_rows_parsed": 1660236,
+      "raw_target_invalid_or_missing_n": 11482,
+      "reserved_target_rows_parsed": 0,
+      "development_represented_hours": 27671,
+      "partial_development_hours": 1,
+      "complete_clock_hours_with_missing_or_invalid_target_minutes": 250
+    },
+    "eligible_origins": 27389,
+    "missing_exact_targets": 256,
+    "missing_common_persistence": 25
+  }
+]

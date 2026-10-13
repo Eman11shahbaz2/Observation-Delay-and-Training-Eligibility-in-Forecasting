@@ -1,0 +1,39 @@
+3/48 final refits complete: bike O=0 L=0
+6/48 final refits complete: bike O=0 L=24
+9/48 final refits complete: bike O=24 L=0
+12/48 final refits complete: bike O=24 L=24
+15/48 final refits complete: beijing O=0 L=0
+18/48 final refits complete: beijing O=0 L=24
+21/48 final refits complete: beijing O=24 L=0
+24/48 final refits complete: beijing O=24 L=24
+27/48 final refits complete: traffic O=0 L=0
+30/48 final refits complete: traffic O=0 L=24
+33/48 final refits complete: traffic O=24 L=0
+36/48 final refits complete: traffic O=24 L=24
+39/48 final refits complete: household O=0 L=0
+42/48 final refits complete: household O=0 L=24
+45/48 final refits complete: household O=24 L=0
+48/48 final refits complete: household O=24 L=24
+{
+  "status": "complete",
+  "created_utc": "2026-10-11T20:28:36.831711+00:00",
+  "expected_maximum_fits": 48,
+  "new_model_fits": 48,
+  "cached_model_fits": 0,
+  "final_numeric_release_authorized": true,
+  "final_windows_scored": true,
+  "selection_refresh_fits": 0,
+  "selection_origin": "carried-forward locked T2 inner choices; no reserved-outcome selection",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "sklearn": "1.8.0"
+  },
+  "completed_utc": "2026-10-11T20:33:45.674896+00:00",
+  "feasible_cases": 16,
+  "infeasible_cases": 0,
+  "elapsed_seconds": 308.8430776080004,
+  "primary_source_units": 4
+}
+

@@ -1,0 +1,58 @@
+{
+  "created_utc": "2026-10-11T20:28:12.796673+00:00",
+  "horizon_hours": 6,
+  "settings": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      24
+    ],
+    [
+      24,
+      0
+    ],
+    [
+      24,
+      24
+    ]
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "datasets": {
+    "bike": {
+      "start": "2011-01-01 00:00:00",
+      "reserved_start": "2012-08-07 20:00:00",
+      "reserved_end_exclusive": "2013-01-01 00:00:00"
+    },
+    "beijing": {
+      "start": "2013-03-01 00:00:00",
+      "reserved_start": "2016-05-12 20:00:00",
+      "reserved_end_exclusive": "2017-03-01 00:00:00"
+    },
+    "traffic": {
+      "start": "2012-10-02 09:00:00",
+      "reserved_start": "2017-07-20 02:00:00",
+      "reserved_end_exclusive": "2018-10-01 00:00:00"
+    },
+    "household": {
+      "start": "2006-12-16 18:00:00",
+      "reserved_start": "2010-02-11 16:00:00",
+      "reserved_end_exclusive": "2010-11-26 21:00:00"
+    }
+  },
+  "maximum_final_fits": 48,
+  "minimum_train": 500,
+  "minimum_future": 100,
+  "normalization_max_maturity_hours": 55,
+  "selections_from": "unchanged T2 inner-only scores",
+  "selection_refresh_fits": 0,
+  "final_evaluation_repetitions": 1
+}

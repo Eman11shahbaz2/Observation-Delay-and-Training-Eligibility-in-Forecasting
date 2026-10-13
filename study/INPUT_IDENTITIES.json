@@ -1,0 +1,12 @@
+{
+  "expansion": {
+    "library_file_id": "libfile_d709a3890b088191b0815e3873b55598",
+    "file_name": "Reporting_Delay_Expansion_Results.zip",
+    "sha256": "7fa17572779978f2e29f5a3b3966cc1db8875c5dd18c4e80ec3aac103d791ad4"
+  },
+  "earlier": {
+    "library_file_id": "libfile_ff86a8cd58a88191ada2e526a576b61a",
+    "file_name": "Reporting_Delay_Full_Experiment.zip",
+    "sha256": "679d754366f1ed8469b64f04edcbf13a351c1968a4255976f6e054235924aa92"
+  }
+}

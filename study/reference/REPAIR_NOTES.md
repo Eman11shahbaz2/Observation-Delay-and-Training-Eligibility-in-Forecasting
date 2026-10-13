@@ -1,0 +1,9 @@
+# Post-run static audit export repair
+
+The 384-fit run completed normally. The first completed-output validation attempt then failed while decompressing `feature_snapshots.csv.gz`. A separate integrity check also found a truncated compressed stream in `maturity_audit.csv.gz`. The predictions, split assignments and normalization membership streams decompressed successfully.
+
+Inspection also identified a schema defect in the frozen runner's incremental feature export: Bike and Beijing have different weather feature columns, so appending their CSV rows under one dataset's header cannot form a valid common schema. The exact cause of the compressed-stream damage was not established. Both static exports were therefore rebuilt rather than partially salvaged.
+
+`repair_static_audits.py` reconstructs the two static audit exports from the identical hash-checked official archives through the unchanged reserved-prefix loader and feature builder. It concatenates snapshots into a union schema, writes each file as one gzip stream and checks that stream before atomic replacement. No model is refitted and no prediction, split, metric, choice, fit ledger, frozen implementation or run manifest is changed. The repair records their unchanged hashes, the old/new audit hashes and its timestamp in `results/STATIC_EXPORT_REPAIR.json`.
+
+The original frozen runner is retained unchanged so its execution provenance remains verifiable. Its reproduction command is followed by the static-export rebuild command documented in README.md. The initial failing validation log is retained as `validation_attempt_1.log`; final validation runs on the repaired exports and every other original result. The repair changes serialization only, not eligibility, timing rules, features used in fitting, selections or reported contrasts. Reserved targets remain excluded by the original guarded loader.

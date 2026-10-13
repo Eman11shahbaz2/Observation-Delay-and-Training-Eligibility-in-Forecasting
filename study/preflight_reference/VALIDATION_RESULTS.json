@@ -1,0 +1,13 @@
+{
+  "completed_utc": "2026-10-11T19:38:40.126480+00:00",
+  "command": "python3 -m unittest discover -v",
+  "checks_passed": 20,
+  "checks_failed": 0,
+  "timestamp_synthetic_checks": 8,
+  "preparation_and_export_synthetic_checks": 8,
+  "completed_preflight_checks": 4,
+  "initial_and_revised_real_source_dates_counts_identical": true,
+  "real_target_values_inspected": false,
+  "models_fitted": 0,
+  "scores_computed": 0
+}

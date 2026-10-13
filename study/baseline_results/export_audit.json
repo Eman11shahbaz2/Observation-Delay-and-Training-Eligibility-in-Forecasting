@@ -1,0 +1,128 @@
+{
+  "checkpoints/traffic_T1_O0_L0_predictions.csv.gz": {
+    "rows": 118960,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T1_O0_L0_splits.csv.gz": {
+    "rows": 162340,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "feature_snapshots.csv.gz": {
+    "rows": 84082,
+    "columns": [
+      "dataset",
+      "O",
+      "origin",
+      "target_lag_1",
+      "target_lag_2",
+      "target_lag_3",
+      "target_lag_24",
+      "target_lag_168",
+      "hour_sin",
+      "hour_cos",
+      "weekday_sin",
+      "weekday_cos",
+      "month_sin",
+      "month_cos",
+      "observed_temp",
+      "observed_rain_1h",
+      "observed_snow_1h",
+      "observed_clouds_all",
+      "observed_weather_main",
+      "origin_grid_index",
+      "persistence",
+      "persistence_source_timestamp",
+      "eligible_origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "maturity_audit.csv.gz": {
+    "rows": 168164,
+    "columns": [
+      "dataset",
+      "O",
+      "L",
+      "origin_grid_index",
+      "origin",
+      "target_hour",
+      "physical_target_arrival",
+      "label_usable_at",
+      "eligible_origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "scale_membership.csv.gz": {
+    "rows": 19600,
+    "columns": [
+      "dataset",
+      "period",
+      "origin_grid_index",
+      "origin",
+      "y_true"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "predictions.csv.gz": {
+    "rows": 118960,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "split_assignments.csv.gz": {
+    "rows": 162340,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  }
+}

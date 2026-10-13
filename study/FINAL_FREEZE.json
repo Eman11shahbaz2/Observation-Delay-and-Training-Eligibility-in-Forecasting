@@ -1,0 +1,33 @@
+{
+  "frozen_utc": "2026-10-11T20:28:12.799315+00:00",
+  "reserved_numeric_targets_inspected_before_freeze": false,
+  "final_scores_computed_before_freeze": false,
+  "sha256": {
+    "FINAL_PROTOCOL.md": "d608b2de75f3b8c1340e2e126b3fa9be6c94db5b273766a2c335830023caf12f",
+    "FINAL_PLAN.json": "945c9f724dfd5cfe6cf43a45c30787138492161066d871ebdd28c06861d911de",
+    "FINAL_CHOICES.json": "c0c948189391cdc7d986428ed266b89dc60711b1110074f9826353122eab1ced",
+    "DEVELOPMENT_FINDINGS.md": "c475cedb7092903e3d539c414125ef6ec30656eb2b38f2e33844ed19bca12b62",
+    "BASELINE_VALIDATION.json": "a9ba3e6313829afb6e2ddc971c85e24555711c88588e7d16a9efbf0d006f1a66",
+    "study_api.py": "674dc6c4dbef34a78478b2ae38324bf910397841d95d581cabb6b197bb778b07",
+    "run_final_evaluation.py": "1318742aaa4e420c6498232273f903a7c0e5f7b07703697fb8735d34e59f6a23",
+    "forecast_pilot.py": "4024e96573198d22e2cefc6e720865dbfa1da9dd8f82866d9b8bcd1939cbb5f7",
+    "replay_core.py": "efe928cfbac60e8150f7973ad4424d61dd20b7471f15b5fbe1897ce155fb32c7",
+    "metadata_preflight.py": "c1afcca728415fe05788e79cdd234660961f1546f1993198f199635ba423b7b7",
+    "source_preparation.py": "0b14df1499e989eb0ebee367f3f35c7f2f9ca57311fd6158fc6796640d1364a2",
+    "expansion_api.py": "d80adfadcc63d2719f7f99101e7349bd438079aa263fc839e39d13231441aab0",
+    "audit_exports.py": "d4747ff938831d8f6b2fcbb89207dda8d9d50515ecc43cd2c669034283fa540b",
+    "run_full_experiment.py": "ae1c50e1ac1dee8a6058305377ac2abb1cd9d8a6cf3a162dc502637bc4fe2f73",
+    "freeze_final.py": "086c7afd220e68c5edb142b549da42abcc89d37292bb4ff80430425dd4308d34",
+    "test_final_design.py": "4449f18b95a92572c0134d670482be7eef155b1580123900185c2f9eaa9a89b3",
+    "METADATA_PREFLIGHT.json": "e898ed43690f2a6f6f63e2417d7639bcc51259a300c4906c5a256a5b13d6ee58",
+    "TIMESTAMP_PREFLIGHT.json": "538d5b96f79423c32ab4aaf1c0ffe5992ea51c7d9067c94e0dc7bd7613a0310a",
+    "development_results/COMPLETION_AUDIT.json": "a726345123859994ec04dbbb39af5f9c08f7160e1ec100755b3e3654b8b557d5",
+    "development_results/combined_primary_summary.csv": "61cb76b45582a227c57e3d58b11972262e470e47ba46f5d803d144908cd62d1e",
+    "development_reference/earlier/locked_choices.json": "548bcaff8f5900b6eb3302d37c65d1ecd2dede191de00c8bd4fb68c0abb0442b",
+    "development_reference/expansion/locked_choices.json": "fe46d8792f8b47307e34f28d6530b9f872df4b2813ca2d62fe162a5a9ef01215",
+    "source_archives/bike_official.zip": "b70182d0d0508e9abbb79306ce5c0cec34869000f8220175ac83d11dbe845401",
+    "source_archives/beijing_official.zip": "b04da438b2f331ac0ffd45aebdfec0d20d2367feb5f6948c4b1f7ce1191e33c4",
+    "source_archives/traffic_official.zip": "b99aeabcbd6cc86f642da3a79d90883425798f58abd3b3302da2fa19dda73768",
+    "source_archives/household_official.zip": "9f84b46ade8a2d8e1286ec4b2b6c2987a45a755c59f263be3b3b3d10dfbda3ff"
+  }
+}

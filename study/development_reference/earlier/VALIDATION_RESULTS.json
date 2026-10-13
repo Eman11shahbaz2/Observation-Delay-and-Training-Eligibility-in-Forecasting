@@ -1,0 +1,12 @@
+{
+  "completed_utc": "2026-10-11T19:18:59.693704+00:00",
+  "command": "OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 python3 -m unittest discover -v",
+  "checks_passed": 38,
+  "checks_failed": 0,
+  "pre_run_checks_passed": 27,
+  "completed_output_checks_passed": 11,
+  "initial_attempt": "validation_attempt_1.log: 27 synthetic checks passed; completed-output setup failed on static gzip export",
+  "repair": "REPAIR_NOTES.md and results/STATIC_EXPORT_REPAIR.json",
+  "repair_new_model_fits": 0,
+  "protected_fitted_results_unchanged": true
+}

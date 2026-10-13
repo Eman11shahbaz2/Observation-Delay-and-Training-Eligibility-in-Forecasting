@@ -1,0 +1,5 @@
+dataset,seed_n,primary_C_mean,primary_C_min,primary_C_max,measurement_effect_mean,measurement_effect_min,measurement_effect_max,fitting_use_effect_mean,fitting_use_effect_min,fitting_use_effect_max,factorial_interaction_mean,factorial_interaction_min,factorial_interaction_max
+bike,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+beijing,5,-0.0011474495640537725,-0.0011474495640537725,-0.0011474495640537725,-0.0018228011818595194,-0.0018228011818595194,-0.0018228011818595194,-0.0006753516178057469,-0.0006753516178057469,-0.0006753516178057469,-0.001635331404770262,-0.0016353314047702619,-0.0016353314047702619
+traffic,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+household,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

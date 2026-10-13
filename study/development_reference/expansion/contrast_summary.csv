@@ -1,0 +1,5 @@
+dataset,period,seed_n,primary_C_mean,primary_C_min,primary_C_max,measurement_effect_mean,measurement_effect_min,measurement_effect_max,fitting_use_effect_mean,fitting_use_effect_min,fitting_use_effect_max,factorial_interaction_mean,factorial_interaction_min,factorial_interaction_max,primary_positive_n,primary_zero_n,primary_negative_n
+traffic,T1,5,0.0,0.0,0.0,,,,,,,,,,0,5,0
+traffic,T2,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,5,0
+household,T1,5,-0.000526027919302877,-0.000526027919302877,-0.000526027919302877,0.0006175291033587425,0.0006175291033587425,0.0006175291033587425,0.0011435570226616194,0.0011435570226616194,0.0011435570226616194,-0.0002882047406716306,-0.0002882047406716306,-0.0002882047406716306,0,0,5
+household,T2,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,5,0

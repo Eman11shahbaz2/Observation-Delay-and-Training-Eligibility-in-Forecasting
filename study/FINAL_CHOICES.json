@@ -1,0 +1,2023 @@
+{
+  "locked_utc": "2026-10-11T20:28:12.796673+00:00",
+  "selection_refresh": false,
+  "source_period": "T2",
+  "choices": [
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 87.11773405359253,
+      "inner_mae_all_candidates": {
+        "persistence": 277.1827033218786,
+        "Ridge": 140.3696099943597,
+        "RF": 87.11773405359253,
+        "HGB": 98.292133160532
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 46.634304526141214,
+      "inner_mae_all_candidates": {
+        "persistence": 77.9885452462772,
+        "Ridge": 96.62919319402006,
+        "RF": 46.634304526141214,
+        "HGB": 61.23866210333991
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 33.83480154766694,
+      "inner_mae_all_candidates": {
+        "persistence": 175.51088201603665,
+        "Ridge": 79.36361884449806,
+        "RF": 33.83480154766694,
+        "HGB": 41.06024763414453
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 34.01748721286743,
+      "inner_mae_all_candidates": {
+        "persistence": 173.86712485681556,
+        "Ridge": 78.82338749152885,
+        "RF": 34.01748721286743,
+        "HGB": 40.8791444019935
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 33.5499136019752,
+      "inner_mae_all_candidates": {
+        "persistence": 172.57388316151201,
+        "Ridge": 81.28885707325327,
+        "RF": 33.5499136019752,
+        "HGB": 42.279792932063636
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 33.14493856498208,
+      "inner_mae_all_candidates": {
+        "persistence": 173.77033218785797,
+        "Ridge": 78.62383886263486,
+        "RF": 33.14493856498208,
+        "HGB": 39.92643542746141
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 34.318537711024355,
+      "inner_mae_all_candidates": {
+        "persistence": 176.5446735395189,
+        "Ridge": 79.63342025655396,
+        "RF": 34.318537711024355,
+        "HGB": 41.12465290240769
+      },
+      "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00",
+      "development_locked_utc": "2026-10-11T19:01:16.517363+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 88.87820072980395,
+      "inner_mae_all_candidates": {
+        "persistence": 276.8855981416957,
+        "Ridge": 140.65160745846163,
+        "RF": 88.87820072980395,
+        "HGB": 99.00522537699965
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 45.19656227872295,
+      "inner_mae_all_candidates": {
+        "persistence": 76.99303135888502,
+        "Ridge": 96.2563326987444,
+        "RF": 45.19656227872295,
+        "HGB": 59.49853933245868
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 35.63859232071716,
+      "inner_mae_all_candidates": {
+        "persistence": 177.9047619047619,
+        "Ridge": 81.38665929049183,
+        "RF": 35.63859232071716,
+        "HGB": 42.09160724092874
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 34.90754525221623,
+      "inner_mae_all_candidates": {
+        "persistence": 172.85656213704993,
+        "Ridge": 81.23361098619962,
+        "RF": 34.90754525221623,
+        "HGB": 41.2817894852856
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 33.214960887189406,
+      "inner_mae_all_candidates": {
+        "persistence": 173.0528455284553,
+        "Ridge": 78.4501602814593,
+        "RF": 33.214960887189406,
+        "HGB": 40.952140417522195
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 34.825653546612706,
+      "inner_mae_all_candidates": {
+        "persistence": 179.55632984901277,
+        "Ridge": 78.81244748416135,
+        "RF": 34.825653546612706,
+        "HGB": 41.00350905411111
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 33.16682186999392,
+      "inner_mae_all_candidates": {
+        "persistence": 170.97793263646923,
+        "Ridge": 78.04579894784031,
+        "RF": 33.16682186999392,
+        "HGB": 39.98473238811194
+      },
+      "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00",
+      "development_locked_utc": "2026-10-11T19:01:53.702348+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 92.2700679994288,
+      "inner_mae_all_candidates": {
+        "persistence": 275.4634146341463,
+        "Ridge": 132.23227283133423,
+        "RF": 92.2700679994288,
+        "HGB": 98.96099743864946
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 55.84123807426077,
+      "inner_mae_all_candidates": {
+        "persistence": 74.97444831591173,
+        "Ridge": 88.1000921419535,
+        "RF": 55.84123807426077,
+        "HGB": 63.04591267708524
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 38.146181613728984,
+      "inner_mae_all_candidates": {
+        "persistence": 175.75087108013938,
+        "Ridge": 82.07567566838877,
+        "RF": 38.146181613728984,
+        "HGB": 43.69557317387009
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 38.234515769754765,
+      "inner_mae_all_candidates": {
+        "persistence": 172.00580720092915,
+        "Ridge": 81.65254809283991,
+        "RF": 38.234515769754765,
+        "HGB": 43.67811093884956
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 35.85898403950756,
+      "inner_mae_all_candidates": {
+        "persistence": 171.0121951219512,
+        "Ridge": 78.90320864719264,
+        "RF": 35.85898403950756,
+        "HGB": 42.08862768012339
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 35.96516992180712,
+      "inner_mae_all_candidates": {
+        "persistence": 175.83449477351917,
+        "Ridge": 80.68972577979963,
+        "RF": 35.96516992180712,
+        "HGB": 41.90001926492286
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 35.69433174344021,
+      "inner_mae_all_candidates": {
+        "persistence": 167.6376306620209,
+        "Ridge": 78.71837462741777,
+        "RF": 35.69433174344021,
+        "HGB": 41.290797435259435
+      },
+      "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00",
+      "development_locked_utc": "2026-10-11T19:02:31.405154+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 93.51766155645902,
+      "inner_mae_all_candidates": {
+        "persistence": 275.87632508833923,
+        "Ridge": 132.48124490450274,
+        "RF": 93.51766155645902,
+        "HGB": 99.24380247608977
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 55.9243007057163,
+      "inner_mae_all_candidates": {
+        "persistence": 74.32567726737338,
+        "Ridge": 87.20084746166837,
+        "RF": 55.9243007057163,
+        "HGB": 62.07105474998169
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 36.797435737041816,
+      "inner_mae_all_candidates": {
+        "persistence": 174.65547703180212,
+        "Ridge": 81.1814371417296,
+        "RF": 36.797435737041816,
+        "HGB": 42.808256950435684
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 37.48572848125587,
+      "inner_mae_all_candidates": {
+        "persistence": 172.7567726737338,
+        "Ridge": 80.85963841262024,
+        "RF": 37.48572848125587,
+        "HGB": 43.69853721017703
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 35.391434321387415,
+      "inner_mae_all_candidates": {
+        "persistence": 171.6383981154299,
+        "Ridge": 81.19888281479517,
+        "RF": 35.391434321387415,
+        "HGB": 42.43907642211467
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 36.264361406737855,
+      "inner_mae_all_candidates": {
+        "persistence": 174.40047114252062,
+        "Ridge": 79.80288438254308,
+        "RF": 36.264361406737855,
+        "HGB": 42.50117527710028
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "bike",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 38.46074331703129,
+      "inner_mae_all_candidates": {
+        "persistence": 170.00412249705536,
+        "Ridge": 82.17173610732864,
+        "RF": 38.46074331703129,
+        "HGB": 44.42718829141906
+      },
+      "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00",
+      "development_locked_utc": "2026-10-11T19:03:08.093774+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "HGB",
+      "inner_selection_mae": 32.16175986955269,
+      "inner_mae_all_candidates": {
+        "persistence": 32.50764705882353,
+        "Ridge": 34.636779519730496,
+        "RF": 32.328625728077135,
+        "HGB": 32.16175986955269
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "HGB",
+      "inner_selection_mae": 34.62134137445341,
+      "inner_mae_all_candidates": {
+        "persistence": 38.02852941176471,
+        "Ridge": 36.13308556684091,
+        "RF": 35.4045585230684,
+        "HGB": 34.62134137445341
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 28.229727965599015,
+      "inner_mae_all_candidates": {
+        "persistence": 37.81864705882353,
+        "Ridge": 35.87942895554438,
+        "RF": 28.229727965599015,
+        "HGB": 32.92987980929734
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 26.978640941843086,
+      "inner_mae_all_candidates": {
+        "persistence": 36.25555882352941,
+        "Ridge": 33.870197622976896,
+        "RF": 26.978640941843086,
+        "HGB": 31.119661949234136
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 26.40838999689153,
+      "inner_mae_all_candidates": {
+        "persistence": 35.641411764705886,
+        "Ridge": 33.946855139572484,
+        "RF": 26.40838999689153,
+        "HGB": 30.554927974203093
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 28.364732147552225,
+      "inner_mae_all_candidates": {
+        "persistence": 37.67973529411765,
+        "Ridge": 35.788363770552216,
+        "RF": 28.364732147552225,
+        "HGB": 32.857196762114384
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 27.141141985732826,
+      "inner_mae_all_candidates": {
+        "persistence": 36.216088235294116,
+        "Ridge": 34.794423232400256,
+        "RF": 27.141141985732826,
+        "HGB": 31.616611992232723
+      },
+      "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00",
+      "development_locked_utc": "2026-10-11T19:10:44.229635+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "HGB",
+      "inner_selection_mae": 31.865853741439892,
+      "inner_mae_all_candidates": {
+        "persistence": 32.29269014501332,
+        "Ridge": 34.56271353161976,
+        "RF": 32.32532291263599,
+        "HGB": 31.865853741439892
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "HGB",
+      "inner_selection_mae": 34.723611294516814,
+      "inner_mae_all_candidates": {
+        "persistence": 38.090263391535956,
+        "Ridge": 36.168893579919896,
+        "RF": 35.325743165618626,
+        "HGB": 34.723611294516814
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 27.683613215288005,
+      "inner_mae_all_candidates": {
+        "persistence": 37.15273749630068,
+        "Ridge": 34.736020737221864,
+        "RF": 27.683613215288005,
+        "HGB": 31.907894748860357
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 27.07716238847591,
+      "inner_mae_all_candidates": {
+        "persistence": 36.84936371707606,
+        "Ridge": 34.645241817486855,
+        "RF": 27.07716238847591,
+        "HGB": 31.54727031732887
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 27.502546607708194,
+      "inner_mae_all_candidates": {
+        "persistence": 37.029920094702575,
+        "Ridge": 35.03871425825952,
+        "RF": 27.502546607708194,
+        "HGB": 31.68706569124509
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 28.806411371088934,
+      "inner_mae_all_candidates": {
+        "persistence": 38.482835158330865,
+        "Ridge": 36.422375149546,
+        "RF": 28.806411371088934,
+        "HGB": 33.26591170407663
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 27.44083735564647,
+      "inner_mae_all_candidates": {
+        "persistence": 36.68369340041432,
+        "Ridge": 34.89125743900887,
+        "RF": 27.44083735564647,
+        "HGB": 31.720433142200637
+      },
+      "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00",
+      "development_locked_utc": "2026-10-11T19:12:32.134625+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "HGB",
+      "inner_selection_mae": 48.8559255628306,
+      "inner_mae_all_candidates": {
+        "persistence": 62.19266055045872,
+        "Ridge": 52.70827448853505,
+        "RF": 50.129021608581645,
+        "HGB": 48.8559255628306
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "HGB",
+      "inner_selection_mae": 46.462476539110554,
+      "inner_mae_all_candidates": {
+        "persistence": 67.88990825688073,
+        "Ridge": 47.50110004484086,
+        "RF": 48.37396318611235,
+        "HGB": 46.462476539110554
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.66515451304367,
+      "inner_mae_all_candidates": {
+        "persistence": 66.54021899970405,
+        "Ridge": 47.60460862025574,
+        "RF": 30.66515451304367,
+        "HGB": 40.935284045310176
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.046274931321292,
+      "inner_mae_all_candidates": {
+        "persistence": 66.16540396567032,
+        "Ridge": 46.732584597107206,
+        "RF": 30.046274931321292,
+        "HGB": 40.161080650169936
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.991072926794075,
+      "inner_mae_all_candidates": {
+        "persistence": 66.6137614678899,
+        "Ridge": 48.009374088575484,
+        "RF": 30.991072926794075,
+        "HGB": 41.45006823064512
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 31.638817610241695,
+      "inner_mae_all_candidates": {
+        "persistence": 67.51926605504586,
+        "Ridge": 48.637830874010405,
+        "RF": 31.638817610241695,
+        "HGB": 42.00968937147369
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.263099653468984,
+      "inner_mae_all_candidates": {
+        "persistence": 66.28813258360462,
+        "Ridge": 47.29680325183523,
+        "RF": 30.263099653468984,
+        "HGB": 40.41904421323902
+      },
+      "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00",
+      "development_locked_utc": "2026-10-11T19:14:16.525626+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "HGB",
+      "inner_selection_mae": 48.69412697991627,
+      "inner_mae_all_candidates": {
+        "persistence": 62.51415797317436,
+        "Ridge": 52.87830454074257,
+        "RF": 50.41663066054963,
+        "HGB": 48.69412697991627
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "HGB",
+      "inner_selection_mae": 45.97742768050389,
+      "inner_mae_all_candidates": {
+        "persistence": 67.8849478390462,
+        "Ridge": 47.584129706011346,
+        "RF": 48.402641725975826,
+        "HGB": 45.97742768050389
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.754158859704685,
+      "inner_mae_all_candidates": {
+        "persistence": 67.2397913561848,
+        "Ridge": 48.36692604758213,
+        "RF": 30.754158859704685,
+        "HGB": 41.536421171841305
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.260625456146677,
+      "inner_mae_all_candidates": {
+        "persistence": 64.11371087928465,
+        "Ridge": 46.69676189385333,
+        "RF": 30.260625456146677,
+        "HGB": 40.45966823146692
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 29.892528489338357,
+      "inner_mae_all_candidates": {
+        "persistence": 66.11809239940388,
+        "Ridge": 46.23764990808459,
+        "RF": 29.892528489338357,
+        "HGB": 39.83897577736174
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 31.977021532845594,
+      "inner_mae_all_candidates": {
+        "persistence": 67.57141579731743,
+        "Ridge": 48.896511059221304,
+        "RF": 31.977021532845594,
+        "HGB": 42.402949267819714
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "beijing",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 30.27488047277594,
+      "inner_mae_all_candidates": {
+        "persistence": 67.6074217585693,
+        "Ridge": 47.46175944481072,
+        "RF": 30.27488047277594,
+        "HGB": 40.68227502019242
+      },
+      "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00",
+      "development_locked_utc": "2026-10-11T19:16:02.380958+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 314.68116013547296,
+      "inner_mae_all_candidates": {
+        "persistence": 2476.0133462282397,
+        "Ridge": 826.0794893565226,
+        "RF": 314.68116013547296,
+        "HGB": 330.4582023124152
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 262.18186568831703,
+      "inner_mae_all_candidates": {
+        "persistence": 2615.23500967118,
+        "Ridge": 813.4393140317773,
+        "RF": 262.18186568831703,
+        "HGB": 311.42232726060496
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 239.70871247189623,
+      "inner_mae_all_candidates": {
+        "persistence": 2598.085686653772,
+        "Ridge": 792.992161472219,
+        "RF": 239.70871247189623,
+        "HGB": 289.1047149436169
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 240.73382818872835,
+      "inner_mae_all_candidates": {
+        "persistence": 2627.6630560928434,
+        "Ridge": 807.6266495363064,
+        "RF": 240.73382818872835,
+        "HGB": 297.351009418688
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 238.96455455450206,
+      "inner_mae_all_candidates": {
+        "persistence": 2608.081818181818,
+        "Ridge": 796.9484643444705,
+        "RF": 238.96455455450206,
+        "HGB": 287.2644193437304
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 251.09255253235733,
+      "inner_mae_all_candidates": {
+        "persistence": 2629.7377176015475,
+        "Ridge": 817.3275000785994,
+        "RF": 251.09255253235733,
+        "HGB": 300.8360943769767
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 240.4613168396913,
+      "inner_mae_all_candidates": {
+        "persistence": 2625.4574468085107,
+        "Ridge": 799.7961605237722,
+        "RF": 240.4613168396913,
+        "HGB": 290.06591183982755
+      },
+      "locked_utc": "2026-10-11T20:00:27.212747+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:00:27.208952+00:00",
+      "development_locked_utc": "2026-10-11T20:00:27.212747+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 314.897038449927,
+      "inner_mae_all_candidates": {
+        "persistence": 2476.260396424407,
+        "Ridge": 827.2823022973527,
+        "RF": 314.897038449927,
+        "HGB": 330.2055007731383
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 260.9233285912001,
+      "inner_mae_all_candidates": {
+        "persistence": 2617.5157403808785,
+        "Ridge": 814.9925337076296,
+        "RF": 260.9233285912001,
+        "HGB": 311.33759192031096
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 241.36461905529217,
+      "inner_mae_all_candidates": {
+        "persistence": 2601.423241352507,
+        "Ridge": 803.0339058473194,
+        "RF": 241.36461905529217,
+        "HGB": 286.0859562215754
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 248.41747964988892,
+      "inner_mae_all_candidates": {
+        "persistence": 2638.1614846482703,
+        "Ridge": 797.9979359090659,
+        "RF": 248.41747964988892,
+        "HGB": 297.2477068809784
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 237.42445002112873,
+      "inner_mae_all_candidates": {
+        "persistence": 2617.223280217645,
+        "Ridge": 792.8061012315547,
+        "RF": 237.42445002112873,
+        "HGB": 287.82142329102703
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 247.85998105975366,
+      "inner_mae_all_candidates": {
+        "persistence": 2626.572677808006,
+        "Ridge": 808.940902120708,
+        "RF": 247.85998105975366,
+        "HGB": 298.6214162845283
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 238.33408406045763,
+      "inner_mae_all_candidates": {
+        "persistence": 2596.21667314419,
+        "Ridge": 795.6571868510415,
+        "RF": 238.33408406045763,
+        "HGB": 290.0759746307933
+      },
+      "locked_utc": "2026-10-11T20:01:09.928774+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:09.925028+00:00",
+      "development_locked_utc": "2026-10-11T20:01:09.928774+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 328.89736907822936,
+      "inner_mae_all_candidates": {
+        "persistence": 2508.291488534784,
+        "Ridge": 839.0203890610027,
+        "RF": 328.89736907822936,
+        "HGB": 340.7634678261453
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 292.24349218587395,
+      "inner_mae_all_candidates": {
+        "persistence": 2647.059657986786,
+        "Ridge": 821.7161634626617,
+        "RF": 292.24349218587395,
+        "HGB": 331.3822357768063
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 267.72305144421716,
+      "inner_mae_all_candidates": {
+        "persistence": 2617.6509910610184,
+        "Ridge": 813.6938945997817,
+        "RF": 267.72305144421716,
+        "HGB": 300.82734195041246
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 277.91887928445766,
+      "inner_mae_all_candidates": {
+        "persistence": 2658.3624174115816,
+        "Ridge": 808.3647239173035,
+        "RF": 277.91887928445766,
+        "HGB": 309.25430627051185
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 264.7583188016503,
+      "inner_mae_all_candidates": {
+        "persistence": 2650.6399144966963,
+        "Ridge": 803.663413457849,
+        "RF": 264.7583188016503,
+        "HGB": 294.6506488181344
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 279.2434301032085,
+      "inner_mae_all_candidates": {
+        "persistence": 2658.987757481539,
+        "Ridge": 820.0857956963243,
+        "RF": 279.2434301032085,
+        "HGB": 309.14272456967535
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 270.1398584156317,
+      "inner_mae_all_candidates": {
+        "persistence": 2623.923047026817,
+        "Ridge": 804.3406543667702,
+        "RF": 270.1398584156317,
+        "HGB": 302.06139539409423
+      },
+      "locked_utc": "2026-10-11T20:01:51.409727+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:01:51.406394+00:00",
+      "development_locked_utc": "2026-10-11T20:01:51.409727+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 328.9791001943034,
+      "inner_mae_all_candidates": {
+        "persistence": 2510.0773135493946,
+        "Ridge": 838.6791818836027,
+        "RF": 328.9791001943034,
+        "HGB": 339.75329511085323
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 294.5471598284704,
+      "inner_mae_all_candidates": {
+        "persistence": 2645.6140179617337,
+        "Ridge": 821.3326973745022,
+        "RF": 294.5471598284704,
+        "HGB": 332.54347984685154
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 269.26479875604355,
+      "inner_mae_all_candidates": {
+        "persistence": 2647.3190160093714,
+        "Ridge": 823.483372067961,
+        "RF": 269.26479875604355,
+        "HGB": 303.79313470795785
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 271.764471383325,
+      "inner_mae_all_candidates": {
+        "persistence": 2673.069113627489,
+        "Ridge": 812.5146356713888,
+        "RF": 271.764471383325,
+        "HGB": 305.8104062781436
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 263.4206274844261,
+      "inner_mae_all_candidates": {
+        "persistence": 2632.0753611870364,
+        "Ridge": 808.314318858631,
+        "RF": 263.4206274844261,
+        "HGB": 298.47516909821405
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 275.0720421777868,
+      "inner_mae_all_candidates": {
+        "persistence": 2653.97461928934,
+        "Ridge": 822.9719528564547,
+        "RF": 275.0720421777868,
+        "HGB": 310.0169906746769
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "traffic",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 266.0552846906875,
+      "inner_mae_all_candidates": {
+        "persistence": 2659.7151503319014,
+        "Ridge": 809.8603215475442,
+        "RF": 266.0552846906875,
+        "HGB": 300.549519582893
+      },
+      "locked_utc": "2026-10-11T20:02:33.533953+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:02:33.530701+00:00",
+      "development_locked_utc": "2026-10-11T20:02:33.533953+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.40762959822701317,
+      "inner_mae_all_candidates": {
+        "persistence": 0.7269216266903563,
+        "Ridge": 0.5347064835396322,
+        "RF": 0.40762959822701317,
+        "HGB": 0.41209659601987025
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.691007850748113,
+      "inner_mae_all_candidates": {
+        "persistence": 1.138957684335209,
+        "Ridge": 0.806330799741867,
+        "RF": 0.691007850748113,
+        "HGB": 0.6930242178568871
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.48580483679288883,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9908762116276774,
+        "Ridge": 0.6477164671159213,
+        "RF": 0.48580483679288883,
+        "HGB": 0.515881449000462
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.48848543254335225,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9894662915802981,
+        "Ridge": 0.6451166790749775,
+        "RF": 0.48848543254335225,
+        "HGB": 0.5144752486133681
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.4990201764489702,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9830359688086073,
+        "Ridge": 0.6511813353725772,
+        "RF": 0.4990201764489702,
+        "HGB": 0.5216090777615597
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.49486692811247274,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9866617313197117,
+        "Ridge": 0.6433427401046441,
+        "RF": 0.49486692811247274,
+        "HGB": 0.5185262454860342
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.4990777626580407,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9702396308360478,
+        "Ridge": 0.6497816601571272,
+        "RF": 0.4990777626580407,
+        "HGB": 0.5215543583102271
+      },
+      "locked_utc": "2026-10-11T20:05:25.103289+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:05:25.100494+00:00",
+      "development_locked_utc": "2026-10-11T20:05:25.103289+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.4064043166822662,
+      "inner_mae_all_candidates": {
+        "persistence": 0.7241128740431456,
+        "Ridge": 0.5334281723189167,
+        "RF": 0.4064043166822662,
+        "HGB": 0.4118655319251932
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.6914029156171156,
+      "inner_mae_all_candidates": {
+        "persistence": 1.1410138781190973,
+        "Ridge": 0.808006360043595,
+        "RF": 0.6914029156171156,
+        "HGB": 0.6948675906788282
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.49388936443462494,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9844957649865791,
+        "Ridge": 0.6526165639275642,
+        "RF": 0.49388936443462494,
+        "HGB": 0.5205887938714079
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.49495929671548367,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9866482254697285,
+        "Ridge": 0.6520188777362562,
+        "RF": 0.49495929671548367,
+        "HGB": 0.5179456986097974
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5022155800957183,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9864771547867581,
+        "Ridge": 0.6502608022399283,
+        "RF": 0.5022155800957183,
+        "HGB": 0.5277904988949488
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.49440390931654854,
+      "inner_mae_all_candidates": {
+        "persistence": 1.0044599860821155,
+        "Ridge": 0.6474625045204937,
+        "RF": 0.49440390931654854,
+        "HGB": 0.5202116592275844
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 0,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5008196142165452,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9753738144944825,
+        "Ridge": 0.6449003898703976,
+        "RF": 0.5008196142165452,
+        "HGB": 0.5209774976360602
+      },
+      "locked_utc": "2026-10-11T20:06:03.799730+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:03.796813+00:00",
+      "development_locked_utc": "2026-10-11T20:06:03.799730+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.40401323953697504,
+      "inner_mae_all_candidates": {
+        "persistence": 0.7098723034098816,
+        "Ridge": 0.5308029811361381,
+        "RF": 0.40401323953697504,
+        "HGB": 0.4093983206221968
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "earlier_validation",
+      "selected_model": "HGB",
+      "inner_selection_mae": 0.6969892337009371,
+      "inner_mae_all_candidates": {
+        "persistence": 1.2378838751366934,
+        "Ridge": 0.8045267165132339,
+        "RF": 0.6986042717988024,
+        "HGB": 0.6969892337009371
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.4975118238687946,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9872075355403123,
+        "Ridge": 0.6518694396380619,
+        "RF": 0.4975118238687946,
+        "HGB": 0.5218213467303928
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5018506594063515,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9795254200218709,
+        "Ridge": 0.6529464453299519,
+        "RF": 0.5018506594063515,
+        "HGB": 0.521509148711221
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5092526491633199,
+      "inner_mae_all_candidates": {
+        "persistence": 1.0104214733074857,
+        "Ridge": 0.6484678346510053,
+        "RF": 0.5092526491633199,
+        "HGB": 0.5302996733984289
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5002616938406734,
+      "inner_mae_all_candidates": {
+        "persistence": 1.0196062332239786,
+        "Ridge": 0.6457364111472748,
+        "RF": 0.5002616938406734,
+        "HGB": 0.5222477437515879
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 0,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.50306663288689,
+      "inner_mae_all_candidates": {
+        "persistence": 1.008258693707128,
+        "Ridge": 0.6447669989111948,
+        "RF": 0.50306663288689,
+        "HGB": 0.5227399386483191
+      },
+      "locked_utc": "2026-10-11T20:06:43.320291+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:06:43.317373+00:00",
+      "development_locked_utc": "2026-10-11T20:06:43.320291+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "chronological",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.40463365793658557,
+      "inner_mae_all_candidates": {
+        "persistence": 0.7082715930709923,
+        "Ridge": 0.5302237144727936,
+        "RF": 0.40463365793658557,
+        "HGB": 0.41057192491122757
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "earlier_validation",
+      "selected_model": "HGB",
+      "inner_selection_mae": 0.6999372923785232,
+      "inner_mae_all_candidates": {
+        "persistence": 1.2396420847101233,
+        "Ridge": 0.8063290787666821,
+        "RF": 0.7024479676267007,
+        "HGB": 0.6999372923785232
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_42",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5017629566494171,
+      "inner_mae_all_candidates": {
+        "persistence": 1.0025082607389608,
+        "Ridge": 0.6560813301504058,
+        "RF": 0.5017629566494171,
+        "HGB": 0.5243869360691161
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_43",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.48582989451067954,
+      "inner_mae_all_candidates": {
+        "persistence": 0.9756018123560628,
+        "Ridge": 0.6461046813892948,
+        "RF": 0.48582989451067954,
+        "HGB": 0.5153647497049606
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_44",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.4956787887688643,
+      "inner_mae_all_candidates": {
+        "persistence": 1.0100450786021828,
+        "Ridge": 0.6471819953142625,
+        "RF": 0.4956787887688643,
+        "HGB": 0.5174206367156852
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_45",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.4923688739111772,
+      "inner_mae_all_candidates": {
+        "persistence": 1.003605517172324,
+        "Ridge": 0.6362474236491739,
+        "RF": 0.4923688739111772,
+        "HGB": 0.5146319524437857
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    },
+    {
+      "dataset": "household",
+      "period": "T2",
+      "O": 24,
+      "L": 24,
+      "strategy": "random_46",
+      "selected_model": "RF",
+      "inner_selection_mae": 0.5034466619450266,
+      "inner_mae_all_candidates": {
+        "persistence": 1.0031212576349253,
+        "Ridge": 0.6450838133160239,
+        "RF": 0.5034466619450266,
+        "HGB": 0.5246315961919783
+      },
+      "locked_utc": "2026-10-11T20:07:21.818978+00:00",
+      "last_inner_fit_completed_utc": "2026-10-11T20:07:21.816581+00:00",
+      "development_locked_utc": "2026-10-11T20:07:21.818978+00:00"
+    }
+  ]
+}

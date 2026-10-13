@@ -1,0 +1,30 @@
+[
+  {
+    "dataset": "bike",
+    "loaded_source_rows": 13911,
+    "reserved_source_rows_not_loaded": 3468,
+    "grid_origins": 14036,
+    "first_loaded_timestamp": "2011-01-01 00:00:00",
+    "last_loaded_timestamp": "2012-08-07 19:00:00",
+    "reserved_start": "2012-08-07 20:00:00",
+    "target_name": "cnt",
+    "eligible_origins": 13881,
+    "missing_exact_targets": 131,
+    "missing_common_persistence": 25,
+    "mask_difference_vs_pilot": 0
+  },
+  {
+    "dataset": "beijing",
+    "loaded_source_rows": 28052,
+    "reserved_source_rows_not_loaded": 7012,
+    "grid_origins": 28052,
+    "first_loaded_timestamp": "2013-03-01 00:00:00",
+    "last_loaded_timestamp": "2016-05-12 19:00:00",
+    "reserved_start": "2016-05-12 20:00:00",
+    "target_name": "PM2.5",
+    "eligible_origins": 27172,
+    "missing_exact_targets": 824,
+    "missing_common_persistence": 224,
+    "mask_difference_vs_pilot": 0
+  }
+]

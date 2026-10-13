@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "created_utc": "2026-10-11T20:28:36.831711+00:00",
+  "expected_maximum_fits": 48,
+  "new_model_fits": 48,
+  "cached_model_fits": 0,
+  "final_numeric_release_authorized": true,
+  "final_windows_scored": true,
+  "selection_refresh_fits": 0,
+  "selection_origin": "carried-forward locked T2 inner choices; no reserved-outcome selection",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "sklearn": "1.8.0"
+  },
+  "completed_utc": "2026-10-11T20:33:45.674896+00:00",
+  "feasible_cases": 16,
+  "infeasible_cases": 0,
+  "elapsed_seconds": 308.8430776080004,
+  "primary_source_units": 4
+}

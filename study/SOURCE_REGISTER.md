@@ -1,0 +1,8 @@
+# Source metadata and attribution
+
+Official metadata checked 12 October 2026, Asia/Karachi. Both datasets use Creative Commons Attribution 4.0 according to their UCI pages. Archives are included unchanged for reproducibility; SHA256 and selected-member identities are in TIMESTAMP_PREFLIGHT.json. Their numeric target contents have not been parsed for analysis at this stage.
+
+1. Hogue, J. (2019). Metro Interstate Traffic Volume [Dataset]. UCI Machine Learning Repository. DOI: https://doi.org/10.24432/C5X60B. Official metadata: https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume. One MN DoT ATR 301 westbound I-94 station; hourly records and weather/holiday fields; source date_time is labeled local CST. UCI documents 48,204 raw rows. These are not necessarily distinct hours, as the timestamp audit demonstrates.
+2. Hebrail, G. and Berard, A. (2006). Individual Household Electric Power Consumption [Dataset]. UCI Machine Learning Repository. DOI: https://doi.org/10.24432/C58K54. Official metadata: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption. One Sceaux household; 2,075,259 minute-level measurements. Global_active_power is minute-averaged active power in kW. Source metadata acknowledges missing measurement values even when date/time stamps are present; this preflight does not estimate numeric missingness.
+
+The UCI pages were used for source identity, units, date formats, provenance and declared license. All duplicate/gap/hour-coverage counts and partition dates are computed by the timestamp-only script on the official archives. Metadata statements about absent timestamps and missing numeric values must not be conflated.

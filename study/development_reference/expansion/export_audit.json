@@ -1,0 +1,606 @@
+{
+  "checkpoints/traffic_T1_O0_L24_predictions.csv.gz": {
+    "rows": 118288,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T1_O0_L24_splits.csv.gz": {
+    "rows": 162008,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T1_O24_L0_predictions.csv.gz": {
+    "rows": 118288,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T1_O24_L0_splits.csv.gz": {
+    "rows": 162008,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T1_O24_L24_predictions.csv.gz": {
+    "rows": 117616,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T1_O24_L24_splits.csv.gz": {
+    "rows": 161662,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O0_L0_predictions.csv.gz": {
+    "rows": 165596,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O0_L0_splits.csv.gz": {
+    "rows": 203759,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O0_L24_predictions.csv.gz": {
+    "rows": 164924,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O0_L24_splits.csv.gz": {
+    "rows": 203399,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O24_L0_predictions.csv.gz": {
+    "rows": 164924,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O24_L0_splits.csv.gz": {
+    "rows": 203399,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O24_L24_predictions.csv.gz": {
+    "rows": 164252,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_T2_O24_L24_splits.csv.gz": {
+    "rows": 203039,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O0_L0_predictions.csv.gz": {
+    "rows": 109884,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O0_L0_splits.csv.gz": {
+    "rows": 168199,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O0_L24_predictions.csv.gz": {
+    "rows": 109212,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O0_L24_splits.csv.gz": {
+    "rows": 167839,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O24_L0_predictions.csv.gz": {
+    "rows": 109212,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O24_L0_splits.csv.gz": {
+    "rows": 167839,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O24_L24_predictions.csv.gz": {
+    "rows": 108540,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T1_O24_L24_splits.csv.gz": {
+    "rows": 167479,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O0_L0_predictions.csv.gz": {
+    "rows": 108124,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O0_L0_splits.csv.gz": {
+    "rows": 195278,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O0_L24_predictions.csv.gz": {
+    "rows": 107452,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O0_L24_splits.csv.gz": {
+    "rows": 194918,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O24_L0_predictions.csv.gz": {
+    "rows": 107452,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O24_L0_splits.csv.gz": {
+    "rows": 194918,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O24_L24_predictions.csv.gz": {
+    "rows": 106780,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_T2_O24_L24_splits.csv.gz": {
+    "rows": 194558,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "feature_snapshots.csv.gz": {
+    "rows": 139422,
+    "columns": [
+      "dataset",
+      "O",
+      "origin",
+      "target_lag_1",
+      "target_lag_2",
+      "target_lag_3",
+      "target_lag_24",
+      "target_lag_168",
+      "hour_sin",
+      "hour_cos",
+      "weekday_sin",
+      "weekday_cos",
+      "month_sin",
+      "month_cos",
+      "observed_temp",
+      "observed_rain_1h",
+      "observed_snow_1h",
+      "observed_clouds_all",
+      "observed_weather_main",
+      "origin_grid_index",
+      "persistence",
+      "persistence_source_timestamp",
+      "eligible_origin",
+      "observed_Global_reactive_power",
+      "observed_Voltage"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "maturity_audit.csv.gz": {
+    "rows": 278844,
+    "columns": [
+      "dataset",
+      "O",
+      "L",
+      "origin_grid_index",
+      "origin",
+      "target_hour",
+      "physical_target_arrival",
+      "label_usable_at",
+      "eligible_origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "scale_membership.csv.gz": {
+    "rows": 88879,
+    "columns": [
+      "dataset",
+      "period",
+      "origin_grid_index",
+      "origin",
+      "y_true"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "predictions.csv.gz": {
+    "rows": 1880544,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "split_assignments.csv.gz": {
+    "rows": 2750302,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "stage",
+      "strategy",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  }
+}

@@ -1,0 +1,17 @@
+dataset,period,O,L,inner_train_n,inner_validation_n,common_history_n,future_n,status
+traffic,T1,0,0,16136,3510,19648,5170,feasible
+traffic,T1,0,24,16116,3486,19624,5170,feasible
+traffic,T1,24,0,16116,3486,19624,5170,feasible
+traffic,T1,24,24,16094,3462,19600,5170,feasible
+traffic,T2,0,0,19648,5170,24824,5209,feasible
+traffic,T2,0,24,19624,5146,24800,5209,feasible
+traffic,T2,24,0,19624,5146,24800,5209,feasible
+traffic,T2,24,24,19600,5122,24776,5209,feasible
+household,T1,0,0,17160,3442,20608,3377,feasible
+household,T1,0,24,17136,3418,20584,3377,feasible
+household,T1,24,0,17136,3418,20584,3377,feasible
+household,T1,24,24,17112,3394,20560,3377,feasible
+household,T2,0,0,20608,3377,23991,3392,feasible
+household,T2,0,24,20584,3353,23967,3392,feasible
+household,T2,24,0,20584,3353,23967,3392,feasible
+household,T2,24,24,20560,3329,23943,3392,feasible

@@ -1,0 +1,1906 @@
+[
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 66.55257655857099,
+    "inner_mae_all_candidates": {
+      "persistence": 170.70936243538196,
+      "Ridge": 80.00665083602995,
+      "RF": 66.55257655857099,
+      "HGB": 68.53377954483106
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 42.49451274563922,
+    "inner_mae_all_candidates": {
+      "persistence": 77.43825387708213,
+      "Ridge": 85.5788825250019,
+      "RF": 42.49451274563922,
+      "HGB": 58.0829399359923
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.08324823203387,
+    "inner_mae_all_candidates": {
+      "persistence": 156.79781734635267,
+      "Ridge": 67.63864136896287,
+      "RF": 30.08324823203387,
+      "HGB": 35.78669826358843
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.42353227073406,
+    "inner_mae_all_candidates": {
+      "persistence": 157.50143595634694,
+      "Ridge": 69.85956271964034,
+      "RF": 30.42353227073406,
+      "HGB": 34.7999083408454
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.948016900930416,
+    "inner_mae_all_candidates": {
+      "persistence": 160.07179781734635,
+      "Ridge": 71.80078303337089,
+      "RF": 30.948016900930416,
+      "HGB": 36.66312647664778
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.250007326863656,
+    "inner_mae_all_candidates": {
+      "persistence": 161.79264790350373,
+      "Ridge": 70.84189706207441,
+      "RF": 30.250007326863656,
+      "HGB": 35.29917790686456
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 32.11090995041126,
+    "inner_mae_all_candidates": {
+      "persistence": 155.7558874210224,
+      "Ridge": 70.08105759315053,
+      "RF": 32.11090995041126,
+      "HGB": 37.24356203560094
+    },
+    "locked_utc": "2026-10-11T18:59:09.915782+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:09.913622+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 65.55412880056494,
+    "inner_mae_all_candidates": {
+      "persistence": 169.03610949330226,
+      "Ridge": 78.82453387986865,
+      "RF": 65.55412880056494,
+      "HGB": 67.2442321452745
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 43.306315823320766,
+    "inner_mae_all_candidates": {
+      "persistence": 76.93302271403611,
+      "Ridge": 85.85481060428629,
+      "RF": 43.306315823320766,
+      "HGB": 58.25683303436975
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.592862741065034,
+    "inner_mae_all_candidates": {
+      "persistence": 161.231217239371,
+      "Ridge": 68.37145513849266,
+      "RF": 30.592862741065034,
+      "HGB": 35.848988365225544
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.88802795287033,
+    "inner_mae_all_candidates": {
+      "persistence": 160.934769947583,
+      "Ridge": 72.97546205361047,
+      "RF": 31.88802795287033,
+      "HGB": 36.960550762657334
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.352162751248073,
+    "inner_mae_all_candidates": {
+      "persistence": 160.87361677344205,
+      "Ridge": 68.7576491065538,
+      "RF": 30.352162751248073,
+      "HGB": 35.67167057173473
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.467567695790798,
+    "inner_mae_all_candidates": {
+      "persistence": 158.90506697728597,
+      "Ridge": 69.70642055570696,
+      "RF": 31.467567695790798,
+      "HGB": 36.50164315187065
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.166624058422855,
+    "inner_mae_all_candidates": {
+      "persistence": 156.58008153756552,
+      "Ridge": 70.42190664427231,
+      "RF": 30.166624058422855,
+      "HGB": 35.56198062569744
+    },
+    "locked_utc": "2026-10-11T18:59:39.805563+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T18:59:39.803651+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 71.52678328695286,
+    "inner_mae_all_candidates": {
+      "persistence": 165.88642981945253,
+      "Ridge": 75.43782235980832,
+      "RF": 72.16611077216271,
+      "HGB": 71.52678328695286
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 51.735097037114436,
+    "inner_mae_all_candidates": {
+      "persistence": 74.91030867792662,
+      "Ridge": 76.26648155253542,
+      "RF": 51.735097037114436,
+      "HGB": 60.43407203401245
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 32.73059968431667,
+    "inner_mae_all_candidates": {
+      "persistence": 160.61968549796157,
+      "Ridge": 69.39055492582847,
+      "RF": 32.73059968431667,
+      "HGB": 37.30360735667723
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 34.64413721192362,
+    "inner_mae_all_candidates": {
+      "persistence": 160.59522422830517,
+      "Ridge": 73.90930412511442,
+      "RF": 34.64413721192362,
+      "HGB": 37.95936568089406
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.400681944514506,
+    "inner_mae_all_candidates": {
+      "persistence": 160.88642981945253,
+      "Ridge": 69.9536574447556,
+      "RF": 31.400681944514506,
+      "HGB": 35.50141461012537
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.425166587191896,
+    "inner_mae_all_candidates": {
+      "persistence": 156.52125800815375,
+      "Ridge": 70.80752220113743,
+      "RF": 33.425166587191896,
+      "HGB": 37.45221648938534
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 32.57415390663614,
+    "inner_mae_all_candidates": {
+      "persistence": 157.7163657542225,
+      "Ridge": 71.38495863417377,
+      "RF": 32.57415390663614,
+      "HGB": 36.425431006458886
+    },
+    "locked_utc": "2026-10-11T19:00:09.573042+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:09.570944+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 70.78639987499399,
+    "inner_mae_all_candidates": {
+      "persistence": 164.64323685764916,
+      "Ridge": 74.65334643643769,
+      "RF": 71.18286085050805,
+      "HGB": 70.78639987499399
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 52.254739894268006,
+    "inner_mae_all_candidates": {
+      "persistence": 74.3071470761961,
+      "Ridge": 75.71881670041509,
+      "RF": 52.254739894268006,
+      "HGB": 59.91550541948515
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.38935197751013,
+    "inner_mae_all_candidates": {
+      "persistence": 156.85056113408152,
+      "Ridge": 68.45383010887889,
+      "RF": 31.38935197751013,
+      "HGB": 35.95637389676977
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.9321962256768,
+    "inner_mae_all_candidates": {
+      "persistence": 158.10218546958063,
+      "Ridge": 70.3366119504501,
+      "RF": 30.9321962256768,
+      "HGB": 35.840626452194456
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.5593507219427,
+    "inner_mae_all_candidates": {
+      "persistence": 162.71647962197284,
+      "Ridge": 72.16212179421998,
+      "RF": 33.5593507219427,
+      "HGB": 37.69283383807341
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.743775761184878,
+    "inner_mae_all_candidates": {
+      "persistence": 152.16125221500295,
+      "Ridge": 72.06337359067464,
+      "RF": 31.743775761184878,
+      "HGB": 36.8804881095568
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.60328436361057,
+    "inner_mae_all_candidates": {
+      "persistence": 158.13644418192558,
+      "Ridge": 70.96357395948327,
+      "RF": 31.60328436361057,
+      "HGB": 35.78139521877275
+    },
+    "locked_utc": "2026-10-11T19:00:40.535577+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:00:40.533115+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 87.11773405359253,
+    "inner_mae_all_candidates": {
+      "persistence": 277.1827033218786,
+      "Ridge": 140.3696099943597,
+      "RF": 87.11773405359253,
+      "HGB": 98.292133160532
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 46.634304526141214,
+    "inner_mae_all_candidates": {
+      "persistence": 77.9885452462772,
+      "Ridge": 96.62919319402006,
+      "RF": 46.634304526141214,
+      "HGB": 61.23866210333991
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.83480154766694,
+    "inner_mae_all_candidates": {
+      "persistence": 175.51088201603665,
+      "Ridge": 79.36361884449806,
+      "RF": 33.83480154766694,
+      "HGB": 41.06024763414453
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 34.01748721286743,
+    "inner_mae_all_candidates": {
+      "persistence": 173.86712485681556,
+      "Ridge": 78.82338749152885,
+      "RF": 34.01748721286743,
+      "HGB": 40.8791444019935
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.5499136019752,
+    "inner_mae_all_candidates": {
+      "persistence": 172.57388316151201,
+      "Ridge": 81.28885707325327,
+      "RF": 33.5499136019752,
+      "HGB": 42.279792932063636
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.14493856498208,
+    "inner_mae_all_candidates": {
+      "persistence": 173.77033218785797,
+      "Ridge": 78.62383886263486,
+      "RF": 33.14493856498208,
+      "HGB": 39.92643542746141
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 34.318537711024355,
+    "inner_mae_all_candidates": {
+      "persistence": 176.5446735395189,
+      "Ridge": 79.63342025655396,
+      "RF": 34.318537711024355,
+      "HGB": 41.12465290240769
+    },
+    "locked_utc": "2026-10-11T19:01:16.517363+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:16.515033+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 88.87820072980395,
+    "inner_mae_all_candidates": {
+      "persistence": 276.8855981416957,
+      "Ridge": 140.65160745846163,
+      "RF": 88.87820072980395,
+      "HGB": 99.00522537699965
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 45.19656227872295,
+    "inner_mae_all_candidates": {
+      "persistence": 76.99303135888502,
+      "Ridge": 96.2563326987444,
+      "RF": 45.19656227872295,
+      "HGB": 59.49853933245868
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 35.63859232071716,
+    "inner_mae_all_candidates": {
+      "persistence": 177.9047619047619,
+      "Ridge": 81.38665929049183,
+      "RF": 35.63859232071716,
+      "HGB": 42.09160724092874
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 34.90754525221623,
+    "inner_mae_all_candidates": {
+      "persistence": 172.85656213704993,
+      "Ridge": 81.23361098619962,
+      "RF": 34.90754525221623,
+      "HGB": 41.2817894852856
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.214960887189406,
+    "inner_mae_all_candidates": {
+      "persistence": 173.0528455284553,
+      "Ridge": 78.4501602814593,
+      "RF": 33.214960887189406,
+      "HGB": 40.952140417522195
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 34.825653546612706,
+    "inner_mae_all_candidates": {
+      "persistence": 179.55632984901277,
+      "Ridge": 78.81244748416135,
+      "RF": 34.825653546612706,
+      "HGB": 41.00350905411111
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 33.16682186999392,
+    "inner_mae_all_candidates": {
+      "persistence": 170.97793263646923,
+      "Ridge": 78.04579894784031,
+      "RF": 33.16682186999392,
+      "HGB": 39.98473238811194
+    },
+    "locked_utc": "2026-10-11T19:01:53.702348+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:01:53.700238+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 92.2700679994288,
+    "inner_mae_all_candidates": {
+      "persistence": 275.4634146341463,
+      "Ridge": 132.23227283133423,
+      "RF": 92.2700679994288,
+      "HGB": 98.96099743864946
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 55.84123807426077,
+    "inner_mae_all_candidates": {
+      "persistence": 74.97444831591173,
+      "Ridge": 88.1000921419535,
+      "RF": 55.84123807426077,
+      "HGB": 63.04591267708524
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 38.146181613728984,
+    "inner_mae_all_candidates": {
+      "persistence": 175.75087108013938,
+      "Ridge": 82.07567566838877,
+      "RF": 38.146181613728984,
+      "HGB": 43.69557317387009
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 38.234515769754765,
+    "inner_mae_all_candidates": {
+      "persistence": 172.00580720092915,
+      "Ridge": 81.65254809283991,
+      "RF": 38.234515769754765,
+      "HGB": 43.67811093884956
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 35.85898403950756,
+    "inner_mae_all_candidates": {
+      "persistence": 171.0121951219512,
+      "Ridge": 78.90320864719264,
+      "RF": 35.85898403950756,
+      "HGB": 42.08862768012339
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 35.96516992180712,
+    "inner_mae_all_candidates": {
+      "persistence": 175.83449477351917,
+      "Ridge": 80.68972577979963,
+      "RF": 35.96516992180712,
+      "HGB": 41.90001926492286
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 35.69433174344021,
+    "inner_mae_all_candidates": {
+      "persistence": 167.6376306620209,
+      "Ridge": 78.71837462741777,
+      "RF": 35.69433174344021,
+      "HGB": 41.290797435259435
+    },
+    "locked_utc": "2026-10-11T19:02:31.405154+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:02:31.402396+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 93.51766155645902,
+    "inner_mae_all_candidates": {
+      "persistence": 275.87632508833923,
+      "Ridge": 132.48124490450274,
+      "RF": 93.51766155645902,
+      "HGB": 99.24380247608977
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 55.9243007057163,
+    "inner_mae_all_candidates": {
+      "persistence": 74.32567726737338,
+      "Ridge": 87.20084746166837,
+      "RF": 55.9243007057163,
+      "HGB": 62.07105474998169
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 36.797435737041816,
+    "inner_mae_all_candidates": {
+      "persistence": 174.65547703180212,
+      "Ridge": 81.1814371417296,
+      "RF": 36.797435737041816,
+      "HGB": 42.808256950435684
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 37.48572848125587,
+    "inner_mae_all_candidates": {
+      "persistence": 172.7567726737338,
+      "Ridge": 80.85963841262024,
+      "RF": 37.48572848125587,
+      "HGB": 43.69853721017703
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 35.391434321387415,
+    "inner_mae_all_candidates": {
+      "persistence": 171.6383981154299,
+      "Ridge": 81.19888281479517,
+      "RF": 35.391434321387415,
+      "HGB": 42.43907642211467
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 36.264361406737855,
+    "inner_mae_all_candidates": {
+      "persistence": 174.40047114252062,
+      "Ridge": 79.80288438254308,
+      "RF": 36.264361406737855,
+      "HGB": 42.50117527710028
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "bike",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 38.46074331703129,
+    "inner_mae_all_candidates": {
+      "persistence": 170.00412249705536,
+      "Ridge": 82.17173610732864,
+      "RF": 38.46074331703129,
+      "HGB": 44.42718829141906
+    },
+    "locked_utc": "2026-10-11T19:03:08.093774+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:03:08.091470+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 28.16300864401793,
+    "inner_mae_all_candidates": {
+      "persistence": 30.550249926492206,
+      "Ridge": 32.88141577472878,
+      "RF": 28.34094067484583,
+      "HGB": 28.16300864401793
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 34.68697608076906,
+    "inner_mae_all_candidates": {
+      "persistence": 38.0317553660688,
+      "Ridge": 36.283468860409045,
+      "RF": 35.22873415656714,
+      "HGB": 34.68697608076906
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.026261989549223,
+    "inner_mae_all_candidates": {
+      "persistence": 37.3255513084387,
+      "Ridge": 34.91056116059016,
+      "RF": 28.026261989549223,
+      "HGB": 32.03035916719123
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.01863602686463,
+    "inner_mae_all_candidates": {
+      "persistence": 36.89529550132314,
+      "Ridge": 34.87892161534675,
+      "RF": 28.01863602686463,
+      "HGB": 31.93968533814894
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 27.09589323856924,
+    "inner_mae_all_candidates": {
+      "persistence": 36.352219935313144,
+      "Ridge": 34.12165516891406,
+      "RF": 27.09589323856924,
+      "HGB": 31.101697495667924
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.95827682304463,
+    "inner_mae_all_candidates": {
+      "persistence": 38.14384004704499,
+      "Ridge": 36.04608658808244,
+      "RF": 28.95827682304463,
+      "HGB": 32.711012029812515
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 29.137479367262813,
+    "inner_mae_all_candidates": {
+      "persistence": 38.801499558953246,
+      "Ridge": 36.69148385927113,
+      "RF": 29.137479367262813,
+      "HGB": 33.39007495771707
+    },
+    "locked_utc": "2026-10-11T19:04:35.376591+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:04:35.374298+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 28.229486867419944,
+    "inner_mae_all_candidates": {
+      "persistence": 30.641220017767246,
+      "Ridge": 32.91921858133134,
+      "RF": 28.414316671601803,
+      "HGB": 28.229486867419944
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 34.889997172775274,
+    "inner_mae_all_candidates": {
+      "persistence": 38.08232158720758,
+      "Ridge": 36.325473155322726,
+      "RF": 35.43618534344749,
+      "HGB": 34.889997172775274
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 29.034594749761443,
+    "inner_mae_all_candidates": {
+      "persistence": 38.60213206988451,
+      "Ridge": 36.11843924418195,
+      "RF": 29.034594749761443,
+      "HGB": 33.02092970729035
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.38831098749053,
+    "inner_mae_all_candidates": {
+      "persistence": 37.89635771394729,
+      "Ridge": 35.3628703554275,
+      "RF": 28.38831098749053,
+      "HGB": 32.3952112684116
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 26.749000618723905,
+    "inner_mae_all_candidates": {
+      "persistence": 36.44533609712763,
+      "Ridge": 34.549139066205385,
+      "RF": 26.749000618723905,
+      "HGB": 31.164090855782725
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.910178066423722,
+    "inner_mae_all_candidates": {
+      "persistence": 38.96887770210245,
+      "Ridge": 36.3429875274598,
+      "RF": 28.910178066423722,
+      "HGB": 33.0303984948414
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.869382492830525,
+    "inner_mae_all_candidates": {
+      "persistence": 39.06716020136215,
+      "Ridge": 36.47141870065175,
+      "RF": 28.869382492830525,
+      "HGB": 33.13082075297927
+    },
+    "locked_utc": "2026-10-11T19:06:04.941647+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:06:04.939005+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 35.383091213512714,
+    "inner_mae_all_candidates": {
+      "persistence": 51.771394729049454,
+      "Ridge": 43.38368260241983,
+      "RF": 36.068168167697095,
+      "HGB": 35.383091213512714
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 46.85632452022239,
+    "inner_mae_all_candidates": {
+      "persistence": 67.90139176784128,
+      "Ridge": 47.25712894579795,
+      "RF": 48.98395227675571,
+      "HGB": 46.85632452022239
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.519058108441396,
+    "inner_mae_all_candidates": {
+      "persistence": 69.6126147468167,
+      "Ridge": 47.262966302689776,
+      "RF": 30.519058108441396,
+      "HGB": 40.8358369948569
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.14785659385944,
+    "inner_mae_all_candidates": {
+      "persistence": 67.70076991412496,
+      "Ridge": 46.79126256756311,
+      "RF": 30.14785659385944,
+      "HGB": 40.526985150479014
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 29.96906875191222,
+    "inner_mae_all_candidates": {
+      "persistence": 69.5094758661534,
+      "Ridge": 46.87247517030536,
+      "RF": 29.96906875191222,
+      "HGB": 40.741616809755484
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.642320199377323,
+    "inner_mae_all_candidates": {
+      "persistence": 69.16310334616523,
+      "Ridge": 47.181249502986404,
+      "RF": 30.642320199377323,
+      "HGB": 40.84153581002566
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.738544601436825,
+    "inner_mae_all_candidates": {
+      "persistence": 69.3468167012141,
+      "Ridge": 47.50651082523439,
+      "RF": 30.738544601436825,
+      "HGB": 40.79313781791273
+    },
+    "locked_utc": "2026-10-11T19:07:31.918079+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:07:31.915418+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 35.56062467732834,
+    "inner_mae_all_candidates": {
+      "persistence": 51.93289591410677,
+      "Ridge": 43.44901317018779,
+      "RF": 36.16287982641462,
+      "HGB": 35.56062467732834
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 46.75323496623076,
+    "inner_mae_all_candidates": {
+      "persistence": 67.90337011631375,
+      "Ridge": 47.333904822661204,
+      "RF": 49.00352006013931,
+      "HGB": 46.75323496623076
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.45662213891174,
+    "inner_mae_all_candidates": {
+      "persistence": 68.45854458693707,
+      "Ridge": 46.887747322583095,
+      "RF": 30.45662213891174,
+      "HGB": 40.663825841530596
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.69581475293342,
+    "inner_mae_all_candidates": {
+      "persistence": 67.45398150909634,
+      "Ridge": 47.32462652786081,
+      "RF": 30.69581475293342,
+      "HGB": 40.795991443294106
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 29.608481978559027,
+    "inner_mae_all_candidates": {
+      "persistence": 70.3660602445571,
+      "Ridge": 46.630052839855765,
+      "RF": 29.608481978559027,
+      "HGB": 40.1957361548684
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.419970123424388,
+    "inner_mae_all_candidates": {
+      "persistence": 67.36886370414554,
+      "Ridge": 46.76688651375037,
+      "RF": 30.419970123424388,
+      "HGB": 40.71877596970053
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T1",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.25383685171311,
+    "inner_mae_all_candidates": {
+      "persistence": 69.34953772740829,
+      "Ridge": 47.24753276593165,
+      "RF": 30.25383685171311,
+      "HGB": 40.881872207422965
+    },
+    "locked_utc": "2026-10-11T19:08:57.394653+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:08:57.391023+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 32.16175986955269,
+    "inner_mae_all_candidates": {
+      "persistence": 32.50764705882353,
+      "Ridge": 34.636779519730496,
+      "RF": 32.328625728077135,
+      "HGB": 32.16175986955269
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 34.62134137445341,
+    "inner_mae_all_candidates": {
+      "persistence": 38.02852941176471,
+      "Ridge": 36.13308556684091,
+      "RF": 35.4045585230684,
+      "HGB": 34.62134137445341
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.229727965599015,
+    "inner_mae_all_candidates": {
+      "persistence": 37.81864705882353,
+      "Ridge": 35.87942895554438,
+      "RF": 28.229727965599015,
+      "HGB": 32.92987980929734
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 26.978640941843086,
+    "inner_mae_all_candidates": {
+      "persistence": 36.25555882352941,
+      "Ridge": 33.870197622976896,
+      "RF": 26.978640941843086,
+      "HGB": 31.119661949234136
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 26.40838999689153,
+    "inner_mae_all_candidates": {
+      "persistence": 35.641411764705886,
+      "Ridge": 33.946855139572484,
+      "RF": 26.40838999689153,
+      "HGB": 30.554927974203093
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.364732147552225,
+    "inner_mae_all_candidates": {
+      "persistence": 37.67973529411765,
+      "Ridge": 35.788363770552216,
+      "RF": 28.364732147552225,
+      "HGB": 32.857196762114384
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 27.141141985732826,
+    "inner_mae_all_candidates": {
+      "persistence": 36.216088235294116,
+      "Ridge": 34.794423232400256,
+      "RF": 27.141141985732826,
+      "HGB": 31.616611992232723
+    },
+    "locked_utc": "2026-10-11T19:10:44.229635+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:10:44.227003+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 31.865853741439892,
+    "inner_mae_all_candidates": {
+      "persistence": 32.29269014501332,
+      "Ridge": 34.56271353161976,
+      "RF": 32.32532291263599,
+      "HGB": 31.865853741439892
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 34.723611294516814,
+    "inner_mae_all_candidates": {
+      "persistence": 38.090263391535956,
+      "Ridge": 36.168893579919896,
+      "RF": 35.325743165618626,
+      "HGB": 34.723611294516814
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 27.683613215288005,
+    "inner_mae_all_candidates": {
+      "persistence": 37.15273749630068,
+      "Ridge": 34.736020737221864,
+      "RF": 27.683613215288005,
+      "HGB": 31.907894748860357
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 27.07716238847591,
+    "inner_mae_all_candidates": {
+      "persistence": 36.84936371707606,
+      "Ridge": 34.645241817486855,
+      "RF": 27.07716238847591,
+      "HGB": 31.54727031732887
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 27.502546607708194,
+    "inner_mae_all_candidates": {
+      "persistence": 37.029920094702575,
+      "Ridge": 35.03871425825952,
+      "RF": 27.502546607708194,
+      "HGB": 31.68706569124509
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 28.806411371088934,
+    "inner_mae_all_candidates": {
+      "persistence": 38.482835158330865,
+      "Ridge": 36.422375149546,
+      "RF": 28.806411371088934,
+      "HGB": 33.26591170407663
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 0,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 27.44083735564647,
+    "inner_mae_all_candidates": {
+      "persistence": 36.68369340041432,
+      "Ridge": 34.89125743900887,
+      "RF": 27.44083735564647,
+      "HGB": 31.720433142200637
+    },
+    "locked_utc": "2026-10-11T19:12:32.134625+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:12:32.132260+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 48.8559255628306,
+    "inner_mae_all_candidates": {
+      "persistence": 62.19266055045872,
+      "Ridge": 52.70827448853505,
+      "RF": 50.129021608581645,
+      "HGB": 48.8559255628306
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 46.462476539110554,
+    "inner_mae_all_candidates": {
+      "persistence": 67.88990825688073,
+      "Ridge": 47.50110004484086,
+      "RF": 48.37396318611235,
+      "HGB": 46.462476539110554
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.66515451304367,
+    "inner_mae_all_candidates": {
+      "persistence": 66.54021899970405,
+      "Ridge": 47.60460862025574,
+      "RF": 30.66515451304367,
+      "HGB": 40.935284045310176
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.046274931321292,
+    "inner_mae_all_candidates": {
+      "persistence": 66.16540396567032,
+      "Ridge": 46.732584597107206,
+      "RF": 30.046274931321292,
+      "HGB": 40.161080650169936
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.991072926794075,
+    "inner_mae_all_candidates": {
+      "persistence": 66.6137614678899,
+      "Ridge": 48.009374088575484,
+      "RF": 30.991072926794075,
+      "HGB": 41.45006823064512
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.638817610241695,
+    "inner_mae_all_candidates": {
+      "persistence": 67.51926605504586,
+      "Ridge": 48.637830874010405,
+      "RF": 31.638817610241695,
+      "HGB": 42.00968937147369
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.263099653468984,
+    "inner_mae_all_candidates": {
+      "persistence": 66.28813258360462,
+      "Ridge": 47.29680325183523,
+      "RF": 30.263099653468984,
+      "HGB": 40.41904421323902
+    },
+    "locked_utc": "2026-10-11T19:14:16.525626+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:14:16.522115+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "chronological",
+    "selected_model": "HGB",
+    "inner_selection_mae": 48.69412697991627,
+    "inner_mae_all_candidates": {
+      "persistence": 62.51415797317436,
+      "Ridge": 52.87830454074257,
+      "RF": 50.41663066054963,
+      "HGB": 48.69412697991627
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "earlier_validation",
+    "selected_model": "HGB",
+    "inner_selection_mae": 45.97742768050389,
+    "inner_mae_all_candidates": {
+      "persistence": 67.8849478390462,
+      "Ridge": 47.584129706011346,
+      "RF": 48.402641725975826,
+      "HGB": 45.97742768050389
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.754158859704685,
+    "inner_mae_all_candidates": {
+      "persistence": 67.2397913561848,
+      "Ridge": 48.36692604758213,
+      "RF": 30.754158859704685,
+      "HGB": 41.536421171841305
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.260625456146677,
+    "inner_mae_all_candidates": {
+      "persistence": 64.11371087928465,
+      "Ridge": 46.69676189385333,
+      "RF": 30.260625456146677,
+      "HGB": 40.45966823146692
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 29.892528489338357,
+    "inner_mae_all_candidates": {
+      "persistence": 66.11809239940388,
+      "Ridge": 46.23764990808459,
+      "RF": 29.892528489338357,
+      "HGB": 39.83897577736174
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 31.977021532845594,
+    "inner_mae_all_candidates": {
+      "persistence": 67.57141579731743,
+      "Ridge": 48.896511059221304,
+      "RF": 31.977021532845594,
+      "HGB": 42.402949267819714
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "period": "T2",
+    "O": 24,
+    "L": 24,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 30.27488047277594,
+    "inner_mae_all_candidates": {
+      "persistence": 67.6074217585693,
+      "Ridge": 47.46175944481072,
+      "RF": 30.27488047277594,
+      "HGB": 40.68227502019242
+    },
+    "locked_utc": "2026-10-11T19:16:02.380958+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T19:16:02.378490+00:00"
+  }
+]

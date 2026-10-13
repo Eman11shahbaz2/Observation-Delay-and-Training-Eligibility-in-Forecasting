@@ -1,0 +1,34 @@
+{
+  "completed_utc": "2026-10-11T19:18:12.500863+00:00",
+  "reason": "Post-run validation detected damaged multi-member static gzip exports; feature export also needed a cross-dataset union schema.",
+  "new_model_fits": 0,
+  "code_sha256": "e742b29a1223b5d392a68f4bb19f3887201609e89d27610be335064a01588683",
+  "source_loader_and_feature_builder": "unchanged forecast_pilot.py",
+  "old_static_export_sha256": {
+    "feature_snapshots.csv.gz": "46fcbd554ad05c20f723fadfe6045b5c4484c6f064c177563860834c0e8c0af8",
+    "maturity_audit.csv.gz": "3a06ad6d0a489e3ffc7e8dca50ff6ac5ea8a66992a072628cf03be3d0d5c8a63"
+  },
+  "new_static_export_sha256": {
+    "feature_snapshots.csv.gz": "61c442cb2e0f7c6a323b7d081ab4757467b2509f10cead0fc00a821c3815108a",
+    "maturity_audit.csv.gz": "b6e6b3b5cd8a7b7fe6f19bad4a83a551b11a4f8da7bef3b56b436003faf265e6"
+  },
+  "rebuilt_rows": {
+    "feature_snapshots.csv.gz": 84176,
+    "maturity_audit.csv.gz": 168352
+  },
+  "protected_result_sha256_unchanged": {
+    "predictions.csv.gz": "f2ebfd7b03e4705edacaad16d96fe1fd15195b49feceb499e97093ad92d73155",
+    "split_assignments.csv.gz": "cde941e1e37b5d3e0ccfbe30e2a1d24eb8cf0174bef0d93627a00ef557c3a388",
+    "scale_membership.csv.gz": "2e6292802b30f348bf3e962c1d0a079e17c3e1a3098eab60cd9c284276b93212",
+    "fit_ledger.csv": "21c0efbc4fcdb9ea9c5d0b4f1f01d48b26fa3118227dd2efd4dff8d3491ea8b2",
+    "locked_choices.json": "548bcaff8f5900b6eb3302d37c65d1ecd2dede191de00c8bd4fb68c0abb0442b",
+    "inner_candidate_metrics.csv": "941d484eb08cae7d3621e3b48770ec0d3cddd012945fd8bdce0989b08f0cd1c0",
+    "future_candidate_metrics.csv": "74194b1e882d6a3cc2f41a6a81bf1075a8adbc6e97003f5af5f4d0f5c71bcdf7",
+    "selected_procedure_metrics.csv": "2dbcdef2daa8b9c10d6316cc701e156efecb932865d89f609e465f84be79937e",
+    "selection_differences.csv": "3c412817e6e54f4bae38b850cad8e5436a2ad03e83d3e27ef8cd56cf08e1c13c",
+    "primary_and_secondary_contrasts.csv": "e559c2fa6ff38d12abc7a72c8ceee0c89f6b00c07f652c71f60f4e536f626ca3",
+    "run_manifest.json": "2deb8f318159a8cd147e80633118f4e30486d973703fc4443693609ee2a32017",
+    "IMPLEMENTATION_FREEZE.json": "0c77326edb7ca12b81cc12415b590a514030e70128b74b62bf44bdd76bf501b2"
+  },
+  "reserved_target_rows_loaded": 0
+}

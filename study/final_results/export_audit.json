@@ -1,0 +1,358 @@
+{
+  "checkpoints/bike_O0_L0_predictions.csv.gz": {
+    "rows": 13848,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/bike_O0_L24_predictions.csv.gz": {
+    "rows": 13848,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/bike_O24_L0_predictions.csv.gz": {
+    "rows": 13848,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/bike_O24_L24_predictions.csv.gz": {
+    "rows": 13848,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/beijing_O0_L0_predictions.csv.gz": {
+    "rows": 27596,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/beijing_O0_L24_predictions.csv.gz": {
+    "rows": 27596,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/beijing_O24_L0_predictions.csv.gz": {
+    "rows": 27596,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/beijing_O24_L24_predictions.csv.gz": {
+    "rows": 27596,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_O0_L0_predictions.csv.gz": {
+    "rows": 41888,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_O0_L24_predictions.csv.gz": {
+    "rows": 41888,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_O24_L0_predictions.csv.gz": {
+    "rows": 41888,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/traffic_O24_L24_predictions.csv.gz": {
+    "rows": 41888,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_O0_L0_predictions.csv.gz": {
+    "rows": 26636,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_O0_L24_predictions.csv.gz": {
+    "rows": 26636,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_O24_L0_predictions.csv.gz": {
+    "rows": 26636,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "checkpoints/household_O24_L24_predictions.csv.gz": {
+    "rows": 26636,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "feature_snapshots.csv.gz": {
+    "rows": 279492,
+    "columns": [
+      "dataset",
+      "O",
+      "origin",
+      "target_lag_1",
+      "target_lag_2",
+      "target_lag_3",
+      "target_lag_24",
+      "target_lag_168",
+      "hour_sin",
+      "hour_cos",
+      "weekday_sin",
+      "weekday_cos",
+      "month_sin",
+      "month_cos",
+      "observed_temp",
+      "observed_hum",
+      "observed_windspeed",
+      "observed_weathersit",
+      "origin_grid_index",
+      "persistence",
+      "persistence_source_timestamp",
+      "eligible_origin",
+      "observed_TEMP",
+      "observed_PRES",
+      "observed_DEWP",
+      "observed_RAIN",
+      "observed_WSPM",
+      "observed_wd",
+      "observed_rain_1h",
+      "observed_snow_1h",
+      "observed_clouds_all",
+      "observed_weather_main",
+      "observed_Global_reactive_power",
+      "observed_Voltage"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "maturity_audit.csv.gz": {
+    "rows": 558984,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "origin_grid_index",
+      "origin",
+      "target_hour",
+      "physical_target_arrival",
+      "label_usable_at",
+      "eligible_origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "split_assignments.csv.gz": {
+    "rows": 503509,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "role",
+      "origin_grid_index",
+      "origin"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "scale_membership.csv.gz": {
+    "rows": 98290,
+    "columns": [
+      "dataset",
+      "period",
+      "origin_grid_index",
+      "origin",
+      "y_true"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  },
+  "predictions.csv.gz": {
+    "rows": 439872,
+    "columns": [
+      "dataset",
+      "period",
+      "O",
+      "L",
+      "model",
+      "origin_grid_index",
+      "origin",
+      "y_true",
+      "prediction"
+    ],
+    "compression": "one gzip stream",
+    "atomic_replacement": true
+  }
+}

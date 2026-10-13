@@ -1,0 +1,9 @@
+dataset,period,stage,seed_n,primary_C_mean,primary_C_min,primary_C_max
+bike,T1,earlier sources,5,0.03687603817612902,0.03687603817612902,0.03687603817612902
+bike,T2,earlier sources,5,0.0,0.0,0.0
+beijing,T1,earlier sources,5,-0.008794630017565582,-0.008794630017565582,-0.008794630017565582
+beijing,T2,earlier sources,5,-0.003413929071390539,-0.003413929071390539,-0.003413929071390539
+traffic,T1,source extension,5,0.0,0.0,0.0
+traffic,T2,source extension,5,0.0,0.0,0.0
+household,T1,source extension,5,-0.000526027919302877,-0.000526027919302877,-0.000526027919302877
+household,T2,source extension,5,0.0,0.0,0.0

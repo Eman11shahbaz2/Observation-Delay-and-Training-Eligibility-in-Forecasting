@@ -1,0 +1,121 @@
+[
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "chronological",
+    "selected_model": "RF",
+    "inner_selection_mae": 283.19311180848814,
+    "inner_mae_all_candidates": {
+      "persistence": 2804.6877492877493,
+      "Ridge": 819.8337120845675,
+      "RF": 283.19311180848814,
+      "HGB": 318.6780245309709
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "earlier_validation",
+    "selected_model": "RF",
+    "inner_selection_mae": 276.72335754398165,
+    "inner_mae_all_candidates": {
+      "persistence": 2572.562393162393,
+      "Ridge": 803.7383682193986,
+      "RF": 276.72335754398165,
+      "HGB": 323.8856343590734
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_42",
+    "selected_model": "RF",
+    "inner_selection_mae": 226.2540946343339,
+    "inner_mae_all_candidates": {
+      "persistence": 2658.1267806267806,
+      "Ridge": 804.6217744769613,
+      "RF": 226.2540946343339,
+      "HGB": 278.3980129189201
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_43",
+    "selected_model": "RF",
+    "inner_selection_mae": 243.1628045558871,
+    "inner_mae_all_candidates": {
+      "persistence": 2634.4185185185183,
+      "Ridge": 804.1002257269104,
+      "RF": 243.1628045558871,
+      "HGB": 290.01328789971797
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_44",
+    "selected_model": "RF",
+    "inner_selection_mae": 235.00150954401838,
+    "inner_mae_all_candidates": {
+      "persistence": 2627.1977207977206,
+      "Ridge": 811.1855390806771,
+      "RF": 235.00150954401838,
+      "HGB": 287.2274726173043
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_45",
+    "selected_model": "RF",
+    "inner_selection_mae": 236.44715874677277,
+    "inner_mae_all_candidates": {
+      "persistence": 2612.052421652422,
+      "Ridge": 806.5165020057228,
+      "RF": 236.44715874677277,
+      "HGB": 285.0729929847408
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "period": "T1",
+    "O": 0,
+    "L": 0,
+    "strategy": "random_46",
+    "selected_model": "RF",
+    "inner_selection_mae": 229.1246662922754,
+    "inner_mae_all_candidates": {
+      "persistence": 2624.2262108262107,
+      "Ridge": 805.7616792753586,
+      "RF": 229.1246662922754,
+      "HGB": 278.2802051139201
+    },
+    "locked_utc": "2026-10-11T20:21:28.330103+00:00",
+    "last_inner_fit_completed_utc": "2026-10-11T20:21:28.327418+00:00"
+  }
+]

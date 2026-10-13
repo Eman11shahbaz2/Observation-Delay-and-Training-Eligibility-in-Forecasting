@@ -1,0 +1,22 @@
+{
+  "complete_expansion_fits": 384,
+  "additional_baseline_fits": 24,
+  "previous_completed_fits": 360,
+  "previous_interrupted_maximum_fits": 21,
+  "maximum_expansion_attempts": 405,
+  "source_period_units": 8,
+  "primary_contrasts_unchanged": true,
+  "reserved_numeric_targets_parsed": 0,
+  "output_sha256": {
+    "development_results/inner_candidate_metrics.csv": "eed58171ba39ce2275a9d880b7c6db1957e760009e0fa325e51563c843475af3",
+    "development_results/primary_and_secondary_contrasts.csv": "c1d1e33c8515cefb0d67eacbb65b05506b611d9ae445f672c37ddf10a6f264c7",
+    "development_results/fit_ledger.csv": "260c68f41c28d86aafd65a14bda494517f728f987c9d2238627864cc23c2bc39",
+    "development_results/locked_choices.json": "5ea1c713427d1078251f56cf649cf57a710da01dc4045fe6787998b804474e61",
+    "development_results/selection_differences.csv": "a0761373e9eb37fbd7c798f6269184667f06df8594cfb7620382c739b2489436",
+    "development_results/all_source_period_contrasts.csv": "8c8e2dbd30f4c1d063d9ab5eef5002afe62956700e66a45323bdc624669ccdd5",
+    "development_results/future_candidate_metrics.csv": "78315026b3e041d72d6e962cae1e2a522f1462e188fabdd3e42609ad40740ac6",
+    "development_results/case_audit.csv": "24e75209e97292b3441cb34691ac901ffe2af036b7e61e19f9f656d8e87ef828",
+    "development_results/combined_primary_summary.csv": "61cb76b45582a227c57e3d58b11972262e470e47ba46f5d803d144908cd62d1e",
+    "development_results/selected_procedure_metrics.csv": "791517802724a006c5f9b8d30e1d8c456be9d417c70abd4891fff59ffddd3a64"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "dataset": "bike",
+    "raw_source_rows": 17379,
+    "measurement_rows_converted": 17379,
+    "excluded_endpoint_rows": 0,
+    "reserved_numeric_measurement_rows_converted": 3468,
+    "grid_origins": 17544,
+    "reserved_hourly_target_finite": 3468,
+    "reserved_hourly_target_missing": 40,
+    "reserved_start": "2012-08-07 20:00:00",
+    "reserved_end_exclusive": "2013-01-01 00:00:00",
+    "explicit_release_after_freeze": true,
+    "released_utc": "2026-10-11T20:28:53.769416+00:00"
+  },
+  {
+    "dataset": "beijing",
+    "raw_source_rows": 35064,
+    "measurement_rows_converted": 35064,
+    "excluded_endpoint_rows": 0,
+    "reserved_numeric_measurement_rows_converted": 7012,
+    "grid_origins": 35064,
+    "reserved_hourly_target_finite": 6905,
+    "reserved_hourly_target_missing": 107,
+    "reserved_start": "2016-05-12 20:00:00",
+    "reserved_end_exclusive": "2017-03-01 00:00:00",
+    "explicit_release_after_freeze": true,
+    "released_utc": "2026-10-11T20:29:18.777554+00:00"
+  },
+  {
+    "dataset": "traffic",
+    "raw_source_rows": 48204,
+    "measurement_rows_converted": 48204,
+    "excluded_endpoint_rows": 0,
+    "reserved_numeric_measurement_rows_converted": 12700,
+    "grid_origins": 52551,
+    "reserved_hourly_target_finite": 10478,
+    "reserved_hourly_target_missing": 32,
+    "reserved_start": "2017-07-20 02:00:00",
+    "reserved_end_exclusive": "2018-10-01 00:00:00",
+    "explicit_release_after_freeze": true,
+    "released_utc": "2026-10-11T20:30:37.381376+00:00"
+  },
+  {
+    "dataset": "household",
+    "raw_source_rows": 2075259,
+    "measurement_rows_converted": 2075220,
+    "excluded_endpoint_rows": 39,
+    "reserved_numeric_measurement_rows_converted": 415020,
+    "grid_origins": 34587,
+    "reserved_hourly_target_finite": 6665,
+    "reserved_hourly_target_missing": 252,
+    "reserved_start": "2010-02-11 16:00:00",
+    "reserved_end_exclusive": "2010-11-26 21:00:00",
+    "explicit_release_after_freeze": true,
+    "released_utc": "2026-10-11T20:32:04.524490+00:00"
+  }
+]

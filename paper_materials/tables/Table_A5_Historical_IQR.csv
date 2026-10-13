@@ -1,0 +1,13 @@
+source,period,historical_iqr
+bike,T1,180.0
+bike,T2,199.0
+beijing,T1,92.0
+beijing,T2,93.0
+traffic,T1,3802.0
+traffic,T2,3734.25
+household,T1,1.3202333333333334
+household,T2,1.2500166666666666
+bike,FINAL,221.0
+beijing,FINAL,93.0
+traffic,FINAL,3709.0
+household,FINAL,1.2776416666666663

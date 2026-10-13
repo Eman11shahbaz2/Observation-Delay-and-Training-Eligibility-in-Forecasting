@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-10-11T19:28:58.331493+00:00",
+  "stage": "timestamp-only feasibility audit",
+  "models_fitted": 0,
+  "scores_computed": 0,
+  "target_columns_loaded_for_analysis": false,
+  "measurement_columns_loaded_for_analysis": false,
+  "target_missingness_profiled": false,
+  "audit_rules_sha256": "fb3d7e40bea4613e48d41cdf9776aca6a448fd59068447cb398509bc52804bc2",
+  "script_sha256": "a713237ca4ecc80348430988e9c71ec16f21cc852f22c09447dcc8fbb6afd09b",
+  "replay_core_sha256": "efe928cfbac60e8150f7973ad4424d61dd20b7471f15b5fbe1897ce155fb32c7"
+}
