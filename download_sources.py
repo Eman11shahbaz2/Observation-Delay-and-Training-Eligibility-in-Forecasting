@@ -1,4 +1,3 @@
-"""Restore official UCI archives and verify the frozen source hashes."""
 from pathlib import Path
 import hashlib
 import json
